@@ -4,19 +4,19 @@
         <title>TravelCommons</title>
         <link>http://travelcommons.com</link>
         <description>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</description>
-        <copyright>&#xA9; 2020 Mark Peacock</copyright>
+        <copyright>&#xA9; 2020 The Peacock Group LLC</copyright>
         <managingEditor>mpeacock@travelcommons.com (Mark Peacock)</managingEditor>
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Fri, 16 Oct 2020 20:57:23 -0500</pubDate>
-        <lastBuildDate>Fri, 16 Oct 2020 20:57:24 -0500</lastBuildDate>
+        <pubDate>Fri, 13 Nov 2020 18:45:01 -0600</pubDate>
+        <lastBuildDate>Fri, 13 Nov 2020 18:45:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
             <link>http://travelcommons.com</link>
         </image>
-        <itunes:author>Mark Peacock</itunes:author> 
+        <itunes:author>Mark Peacock</itunes:author>
         <itunes:summary>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</itunes:summary>
         <itunes:keywords>travel, travel podcast, business travel, travel stories, travel industry, travel tips, road warrior</itunes:keywords>
         <itunes:image href="http://travelcommons.com/podcast/travelcommons_logo.jpg"/>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Pandemic Holiday Gift Guide; Year-End Status Offers</title>
+            <description><![CDATA[No travel since the last episode, so I had some time to think back through my post-lockdown travel and come up with my top 10 <a href="http://travelcommons.com/2020/11/04/10-best-travel-gift-ideas-for-these-unprecedented-times/">gift ideas</a> for your pandemic travelers.  We look at the start of the year-end efforts by airlines, hotels, and credit card companies to keep their grounded travelers, unpack the work-from-hotel offerings from Marriott, Hilton, and Hyatt, and dissect the latest hotel reservation system data breach.]]></description>
+            <link>http://travelcommons.com/2020/11/12/podcast-169-pandemic-holiday-gift-guide-year-end-status-offers/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_169.mp3" length="21665976" type="audio/mpeg"/>
+            <guid isPermaLink="false">628e0f0f-5c87-4df1-beae-94efdc7bcdcf</guid>
+            <pubDate>Thu, 12 Nov 2020 20:00:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Top 10 gift ideas for pandemic travelers; year-end status offers from airlines, hotels, and travel credit cards; work-from-hotel offerings; latest hotel reservation system data breach.</itunes:subtitle>
+            <itunes:summary>Top 10 gift ideas for pandemic travelers; year-end status offers from airlines, hotels, and travel credit cards; work-from-hotel offerings; latest hotel reservation system data breach.</itunes:summary>
+            <itunes:keywords>travel gift ideas, best travel gift ideas, travel gifts, gift ideas for travelers, best travel gifts, gift for traveler, travel accessories, travel stories, travel tips, travel podcast, frequent flyer status, frequent flier status, travel credit cards</itunes:keywords>
+            <itunes:duration>29:42</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>169</itunes:episode>
+        </item>
         <item>
             <title>Surviving Quarantine Theater; Traveling for Food</title>
             <description><![CDATA[Trying to recover from a long weekend of eating and drinking through the neighborhoods of South Philly. Our movable feast reminded me that food may be the one experience of a place left that can’t be easily exported and bought on-line. We talk about the FBI’s cybersecurity warning to work-from-home types using hotels for getaway offices, and are a bit amazed at how fast last year’s 'flight shaming' gave way to 'flights to nowhere.' And we think about 'quarantine theater' — how cities and states are focusing on activities to signal they are serious about COVID, but that most folks know aren’t really effective.]]></description>
@@ -48,7 +66,7 @@
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>168</itunes:episode>
         </item>
-	<item>
+	      <item>
             <title>6 Months On; Why Keep Travel Cards?</title>
             <description>Drivable getaway to Michigan's Upper Peninsula; looking back 6 months to start of pandemic; downloading 12 years of TripIt data; what to do with travel card points we can't use?</description>
             <link>http://travelcommons.com/2020/09/19/podcast-167-6-months-on-why-keep-travel-cards/</link>
@@ -65,8 +83,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>167</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>What Is The Meaning of Travel?</title>
             <description>Travel planning amidst changing quarantines and lockdowns; writing off Barcelona trip; Emily Thomas and her new book "The Meaning of Travel: Philosophers Abroad"</description>
             <link>http://travelcommons.com/2020/08/13/podcast-166-what-is-the-meaning-of-travel/</link>
@@ -83,8 +101,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>166</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>First Post-Lockdown Flight; When Does Business Travel Come Back?</title>
             <description>Experiences on my first post-lockdown flight; Hertz's new cleaning program; reviewing my new pair of Bose headphones, wonder when business travel will return</description>
             <link>http://travelcommons.com/2020/07/17/podcast-165-first-post-lockdown-flight-when-does-business-travel-come-back/</link>
@@ -101,8 +119,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>165</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>First Post-Lockdown Trips; Travel Credit Cards</title>
             <description>First post-lockdown trip, a fast drive down I-65. Talk about hotels swapping hospitality for sanitation, Hertz's bankruptcy, tips for travel credit card usage</description>
             <link>http://travelcommons.com/2020/06/09/podcast-164-first-post-lockdown-trips-travel-credit-cards/</link>
@@ -119,8 +137,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>164</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>New World of Travel Insurance; Getting Medical Help On The Road</title>
             <description>People are doing short car trips. Before doing more extensive travel, they'll want more spacing in aircraft, travel insurance, and finding medical attention on the road</description>
             <link>http://travelcommons.com/2020/05/08/podcast-163-new-world-of-travel-insurance-getting-medical-help-on-the-road</link>
@@ -137,8 +155,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>163</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>Post-Corona Trip Planning; Keeping a Travel Journal</title>
             <description>Cyberattacks on frequent flyer accounts now that we aren't checking them; planning my post-pandemic trips; re-reading my travel journals provides a travel fix</description>
             <link>http://travelcommons.com/2020/04/11/podcast-162-post-corona-trip-planning-keeping-a-travel-journal/</link>
@@ -155,8 +173,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>162</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>New Crisis, Old Question; Driving Down to Key West</title>
             <description>Things started out well, skipping out on Chicago winter for a drive down to Key West. But then last week, coronavirus hit the US and everything unraveled</description>
             <link>http://travelcommons.com/2020/03/21/podcast-161-new-crisis-old-question-driving-down-to-key-west/</link>
@@ -173,8 +191,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>161</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>Disappearing Seatback Screens; Shrinking Difference Between Ride-Share and Taxis</title>
             <description>Fading away of seatback entertainment; watching the Super Bowl across flights and airports; Uber and Lyft looking like the taxi companies they fought to replace</description>
             <link>http://travelcommons.com/2020/02/29/podcast-160-disappearing-seatback-screens-shrinking-difference-between-ride-share-and-taxis/</link>
@@ -191,26 +209,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>160</itunes:episode>
-       </item>
-	<item>
-            <title>Planning the Trip of a Lifetime in Southeast Asia</title>
-            <description>Extreme travel planning for a 9-week sabbatical trip thru Southeast Asia; Fasten Seatbelt signs and a bad back; Comparing Kickstarter power adapters</description>
-            <link>http://travelcommons.com/2020/01/25/podcast-159-planning-the-trip-of-a-lifetime-in-southeast-asia/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_159.mp3" length="22851870" type="audio/mpeg"/>
-            <guid isPermaLink="false">30f64ee3-d869-47c1-935d-27b5bdb43339</guid>
-            <pubDate>Sat, 25 Jan 2020 12:19:01 CST</pubDate>
-            <itunes:subtitle>Extreme travel planning for a 9-week sabbatical trip thru Southeast Asia; Fasten Seatbelt signs and a bad back; Comparing Kickstarter power adapters</itunes:subtitle>
-            <itunes:summary>January is a big travel planning month; people thinking about about the places they want to visit, spending days on the Internet researching itineraries, and putting in their week’s vacation requests. But what about a 9-week sabbatical you’ve worked 7 years for? In this episode, we talk about that kind of extreme travel planning.</itunes:summary>
-            <itunes:duration>30:55</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>travel stories, eScooter, international power adapters, Phoenix, Sabbatical, Southeast Asia, suitcase, Thailand, trip planning, Vietnam, visas</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>159</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>A Decade of TravelCommons</title>
             <description>Looking back over 10 years of TravelCommons</description>
             <link>http://travelcommons.com/2015/05/14/podcast-115-a-decade-of-travelcommons</link>
@@ -227,8 +227,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>115</itunes:episode>
-       </item>
-	<item>
+        </item>
+	      <item>
             <title>Looking Back Over Four Years of TravelCommons</title>
             <description>The fourth year anniversary episode of TravelCommons</description>
             <link>http://travelcommons.com/2009/05/14/podcast-74-looking-back-over-four-years-of-travelcommons/</link>
@@ -245,18 +245,18 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>74</itunes:episode>
-       </item>
+        </item>
         <item>
             <title>Looking Back Over The First Year</title>
             <description>The first year anniversary episode of TravelCommons</description>
-	    <link>http://travelcommons.com/2006/06/13/podcast-40-looking-back-over-the-first-year/</link>
-	    <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+	          <link>http://travelcommons.com/2006/06/13/podcast-40-looking-back-over-the-first-year/</link>
+	          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
             <category domain="">Travel</category>
             <enclosure url="http://www.travelcommons.com/podcast/travelcommons_40.mp3" length="20178944" type="audio/mpeg3"></enclosure>
             <guid isPermaLink="false">68456bf8-7cdf-4aff-bc41-bb9d92051940</guid>
             <pubDate>Tue, 13 Jun 2006 00:08:21 CST</pubDate>
-	    <itunes:subtitle>The first year anniversary episode of TravelCommons</itunes:subtitle>
-	    <itunes:summary>Recorded in the Courtyard Copley Square in Boston, this special edition pulls the best of the first year of TravelCommons.</itunes:summary>
+	          <itunes:subtitle>The first year anniversary episode of TravelCommons</itunes:subtitle>
+	          <itunes:summary>Recorded in the Courtyard Copley Square in Boston, this special edition pulls the best of the first year of TravelCommons.</itunes:summary>
             <itunes:duration>28:00</itunes:duration>
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
@@ -267,16 +267,16 @@
         <item>
             <title>Best of 2005</title>
             <description>The best of the 2005 episodes of TravelCommons</description>
-	    <link>http://travelcommons.com/2005/12/27/podcast-27-best-of-2005/</link>
+	          <link>http://travelcommons.com/2005/12/27/podcast-27-best-of-2005/</link>
             <author>mpeacock@travelcommons.com (Mark Peacock)</author>
             <category domain="">Travel</category>
             <enclosure url="http://www.travelcommons.com/podcast/travelcommons_27.mp3" length="10858496" type="audio/mpeg3"></enclosure>
             <guid isPermaLink="false">d2a56296-ab43-4aff-8809-82fa4151b1ce</guid>
             <pubDate>Tue, 27 Dec 2005 11:38:21 CST</pubDate>
-	    <itunes:subtitle>The best of the 2005 episodes of TravelCommons</itunes:subtitle>
-	    <itunes:summary>Spent the holiday week digging through the TravelCommon archives and assembled a Best of TravelCommons 2005 episode. Starting with a medley of hotel bathrooms, we revisit some rants on the TSA, the 3-episode Sean Penn arc, and excerpts from some of the best stories of 2005</itunes:summary>
+	          <itunes:subtitle>The best of the 2005 episodes of TravelCommons</itunes:subtitle>
+	          <itunes:summary>Spent the holiday week digging through the TravelCommon archives and assembled a Best of TravelCommons 2005 episode. Starting with a medley of hotel bathrooms, we revisit some rants on the TSA, the 3-episode Sean Penn arc, and excerpts from some of the best stories of 2005</itunes:summary>
             <itunes:duration>22:34</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>   
+            <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
@@ -291,11 +291,11 @@
             <guid isPermaLink="false">0ffa773e-e817-46d7-944b-438cf18fa929</guid>
             <pubDate>Wed, 6 Jul 2005 18:14:44 CST</pubDate>
             <itunes:subtitle>Taste of TravelCommons</itunes:subtitle>
-	    <itunes:summary>A Taste of TravelCommons - Travel rants and travel stories recorded in hotel bathrooms around the country</itunes:summary>
+	          <itunes:summary>A Taste of TravelCommons - Travel rants and travel stories recorded in hotel bathrooms around the country</itunes:summary>
             <itunes:duration>2:30</itunes:duration>
             <itunes:keywords>travel, promo, stories</itunes:keywords>
             <itunes:episodeType>trailer</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>
-</rss>	
+</rss>
