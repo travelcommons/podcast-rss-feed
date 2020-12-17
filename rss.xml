@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 17 Nov 2020 17:42:01 -0600</pubDate>
-        <lastBuildDate>Tue, 17 Nov 2020 17:42:01 -0600</lastBuildDate>
+        <pubDate>Thu, 17 Dec 2020 15:00:01 -0600</pubDate>
+        <lastBuildDate>Thu, 17 Dec 2020 15:00:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Show Me the Proof; Hereditary Road Warriors</title>
+            <description><![CDATA[No Thanksgiving travel, but looking at the travel volume for this, the busiest travel week of the year, shows just how far things have fallen. The Qantas CEO said “No vax, no fly”, so we dig into the emerging world of digital vaccine passports. And then I trace my travel genealogy, wondering if road warrior-ism is hereditary.<br>Check out this episode's show notes <a href="http://travelcommons.com/2020/12/16/podcast-170-show-me-the-proof-hereditary-road-warriors/">here</a>]]></description>
+            <link>http://travelcommons.com/2020/12/16/podcast-170-show-me-the-proof-hereditary-road-warriors/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_170.mp3" length="18701818" type="audio/mpeg"/>
+            <guid isPermaLink="false">063a3aa8-641c-4d7a-83fa-0046f7fc7a30</guid>
+            <pubDate>Wed, 16 Dec 2020 22:32:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Thanksgiving travel volume shows how far things have fallen; we dig into digital vaccine passports; tracing my travel genealogy, is road warrior-ism hereditary?</itunes:subtitle>
+            <itunes:summary>Thanksgiving travel volume shows how far things have fallen; we dig into digital vaccine passports; tracing my travel genealogy, is road warrior-ism hereditary?</itunes:summary>
+            <itunes:keywords>Coronavirus, Covid-19, Digital Vaccine Passports, Holiday Travel, Hotel Room Cooking, Hyatt, O’Hare International Airport, Road Warriors, Siri, Thanksgiving, Vaccination, travel stories, travel tips, travel podcast</itunes:keywords>
+            <itunes:duration>25:35</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>170</itunes:episode>
+        </item>
         <item>
             <title>Pandemic Holiday Gift Guide; Year-End Status Offers</title>
             <description><![CDATA[No travel since the last episode, so I had some time to think back through my post-lockdown travel and come up with my top 10 <a href="http://travelcommons.com/2020/11/04/10-best-travel-gift-ideas-for-these-unprecedented-times/">gift ideas</a> for your pandemic travelers.  We look at the start of the year-end efforts by airlines, hotels, and credit card companies to keep their grounded travelers, unpack the work-from-hotel offerings from Marriott, Hilton, and Hyatt, and dissect the latest hotel reservation system data breach.<br>Check out this episode's show notes <a href="http://travelcommons.com/2020/11/12/podcast-169-pandemic-holiday-gift-guide-year-end-status-offers/">here</a>]]></description>
@@ -191,24 +209,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>161</itunes:episode>
-        </item>
-	      <item>
-            <title>Disappearing Seatback Screens; Shrinking Difference Between Ride-Share and Taxis</title>
-            <description>Fading away of seatback entertainment; watching the Super Bowl across flights and airports; Uber and Lyft looking like the taxi companies they fought to replace</description>
-            <link>http://travelcommons.com/2020/02/29/podcast-160-disappearing-seatback-screens-shrinking-difference-between-ride-share-and-taxis/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_160.mp3" length="17574798" type="audio/mpeg"/>
-            <guid isPermaLink="false">888568bb-b0de-4e7a-bd46-53f9eb26d4b3</guid>
-            <pubDate>Sat, 29 Feb 2020 22:24:01 CST</pubDate>
-            <itunes:subtitle>Fading away of seatback entertainment; watching the Super Bowl across flights and airports; Uber and Lyft looking like the taxi companies they fought to replace</itunes:subtitle>
-            <itunes:summary>Trying to watch the Super Bowl while flying from Durango, CO to Chicago via Denver got me thinking about the fading away of seatback entertainment. We also talk about the continuing evolution of ride sharing. Uber and Lyft are looking more and more like the taxi companies they fought to replace.</itunes:summary>
-            <itunes:duration>23:35</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>Bleisure, Durango, In-Flight Entertainment, Lyft, Phoenix, Ride Sharing, Seatback Screen, Skiing, Super Bowl, Uber, Travel Stories, Travel Tips</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>160</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
