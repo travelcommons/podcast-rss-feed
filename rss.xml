@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 14 Jan 2021 18:07:01 -0600</pubDate>
-        <lastBuildDate>Thu, 14 Jan 2021 18:07:01 -0600</lastBuildDate>
+        <pubDate>Tue, 16 Feb 2021 20:14:01 -0600</pubDate>
+        <lastBuildDate>Tue, 16 Feb 2021 20:14:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Timeshares Without the Pitch; Notes on Tucson</title>
+            <description><![CDATA[Escaped the Chicago winter for a week of hiking in the mountains around Tucson and searching for good Sonoran food. We also talk with Mike Kennedy, CEO and Co-Founder of Koala about how he’s making it easy to rent timeshares without buying into them. Also, how travel planning got hot but then cooled back down, and trying to extend the life of my Avios points<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/02/16/podcast-172-timeshares-without-the-pitch-notes-on-tucson/">here</a> and my Tucson trip blog post <a href="http://travelcommons.com/2021/02/01/quick-notes-on-our-trip-to-tucson/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/02/16/podcast-172-timeshares-without-the-pitch-notes-on-tucson/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_172.mp3" length="20652530" type="audio/mpeg"/>
+            <guid isPermaLink="false">275c0ff1-7dfd-473a-a26b-fdd2d1bc71d8</guid>
+            <pubDate>Tue, 16 Feb 2021 20:14:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Escaped Chicago winter for a week of hiking and eating in Tucson; CEO of Koala talks about renting timeshares; travel planning gets hot and then cools back down; trying to extend the life of my Avios points</itunes:subtitle>
+            <itunes:summary>Escaped Chicago winter for a week of hiking and eating in Tucson; CEO of Koala talks about renting timeshares; travel planning gets hot and then cools back down; trying to extend the life of my Avios points</itunes:summary>
+            <itunes:keywords>	Arizona, Avios, British Airways, Centurion Lounge, Covid, frequent flier programs, Iberia Airlines, O’Hare, Sonoran Food, Southwest Airlines, Timeshare Rentals, Tucson, travel planning, travel tips, travel stories</itunes:keywords>
+            <itunes:duration>28:17</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>172</itunes:episode>
+        </item>
         <item>
             <title>Data Privacy and Rental Cars; 2021 Travel Planning Tips</title>
             <description><![CDATA[Was all set to head to San Diego for a week’s break from Chicago’s grey January and then looked at the COVID restrictions… and then pivoted to Arizona. With people starting to think about 2021 travel, I pulled together my top 5 travel planning tips. Slow vaccine roll-out will probably keep us restricted for longer than we thought. Andrea Amico of Privacy4Cars joins us to talk about the dangers of leaving our data behind in rental cars.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/01/14/podcast-171-data-privacy-and-rental-cars-2021-travel-planning-tips/">here</a>]]></description>
@@ -191,24 +209,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>163</itunes:episode>
-        </item>
-	      <item>
-            <title>Post-Corona Trip Planning; Keeping a Travel Journal</title>
-            <description>Cyberattacks on frequent flyer accounts now that we aren't checking them; planning my post-pandemic trips; re-reading my travel journals provides a travel fix</description>
-            <link>http://travelcommons.com/2020/04/11/podcast-162-post-corona-trip-planning-keeping-a-travel-journal/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_162.mp3" length="15887985" type="audio/mpeg"/>
-            <guid isPermaLink="false">37bad407-4f76-4942-b77d-fcff44e3f045</guid>
-            <pubDate>Sat, 11 Apr 2020 11:45:01 CDT</pubDate>
-            <itunes:subtitle>Cyberattacks on frequent flyer accounts now that we aren't checking them; planning my post-pandemic trips; re-reading my travel journals provides a travel fix</itunes:subtitle>
-            <itunes:summary>Kinda tough to do a podcast that’s more about the journey than the destination if I’m not “journeying,” but I give it a go. We talk about cyberattacks on frequent flyer accounts now that we don’t have a reason to check them, planning for my first post-pandemic trips, and how re-reading my travel journals is pinch-hitting right now.</itunes:summary>
-            <itunes:duration>21:40</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>Coronavirus, Covid-19, Cyber Security, frequent flyer programs, Frequent Flyer Status, Marriott, road trip, Travel Notebooks, travel planning, travel stories</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>162</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
