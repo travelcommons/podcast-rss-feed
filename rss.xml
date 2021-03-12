@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 16 Feb 2021 20:14:01 -0600</pubDate>
-        <lastBuildDate>Tue, 16 Feb 2021 20:14:01 -0600</lastBuildDate>
+        <pubDate>Fri, 12 Mar 2021 15:01:01 -0600</pubDate>
+        <lastBuildDate>Fri, 12 Mar 2021 15:01:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -31,6 +31,24 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>What's New in Travel Insurance; Keeping Ahead of Expiring Miles</title>
+            <description><![CDATA[As travel bookings beginning to rise with vaccination rates, we talk with Michael Giusti of InsuranceQuotes.com to find out what's changed over the last year. I make the rounds through all my frequent traveler programs to reset impending expiration dates. We also talk about yet another travel data breach, a favorite beer bar is a COVID casualty, and bankrupt Hertz is starting to let its cars get old.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/03/12/podcast-173-whats-new-in-travel-insurance-keeping-ahead-of-expiring-miles/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/03/12/podcast-173-whats-new-in-travel-insurance-keeping-ahead-of-expiring-miles/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_173.mp3" length="21032884" type="audio/mpeg"/>
+            <guid isPermaLink="false">92f7302a-7bf7-49dd-94c7-d0620a46056a</guid>
+            <pubDate>Fri, 12 Mar 2021 15:01:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>What's new in travel insurance; resetting expiration dates on all my frequent traveler programs; another travel data breach; bankrupt Hertz letting cars get old</itunes:subtitle>
+            <itunes:summary>What's new in travel insurance; resetting expiration dates on all my frequent traveler programs; another travel data breach; bankrupt Hertz letting cars get old</itunes:summary>
+            <itunes:keywords>Air France-KLM, Avios, British Airways, Covid-19, Craft Beer, Data Security, Expiring Points, frequent flier programs, Hertz, Iberia Airlines, Plane Mask, Travel Insurance, TripIt, travel planning, travel tips, travel stories</itunes:keywords>
+            <itunes:duration>28:49</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>173</itunes:episode>
+        </item>
+        <item>
             <title>Timeshares Without the Pitch; Notes on Tucson</title>
             <description><![CDATA[Escaped the Chicago winter for a week of hiking in the mountains around Tucson and searching for good Sonoran food. We also talk with Mike Kennedy, CEO and Co-Founder of Koala about how he’s making it easy to rent timeshares without buying into them. Also, how travel planning got hot but then cooled back down, and trying to extend the life of my Avios points<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/02/16/podcast-172-timeshares-without-the-pitch-notes-on-tucson/">here</a> and my Tucson trip blog post <a href="http://travelcommons.com/2021/02/01/quick-notes-on-our-trip-to-tucson/">here</a>]]></description>
             <link>http://travelcommons.com/2021/02/16/podcast-172-timeshares-without-the-pitch-notes-on-tucson/</link>
@@ -42,7 +60,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:subtitle>Escaped Chicago winter for a week of hiking and eating in Tucson; CEO of Koala talks about renting timeshares; travel planning gets hot and then cools back down; trying to extend the life of my Avios points</itunes:subtitle>
             <itunes:summary>Escaped Chicago winter for a week of hiking and eating in Tucson; CEO of Koala talks about renting timeshares; travel planning gets hot and then cools back down; trying to extend the life of my Avios points</itunes:summary>
-            <itunes:keywords>	Arizona, Avios, British Airways, Centurion Lounge, Covid, frequent flier programs, Iberia Airlines, O’Hare, Sonoran Food, Southwest Airlines, Timeshare Rentals, Tucson, travel planning, travel tips, travel stories</itunes:keywords>
+            <itunes:keywords>Arizona, Avios, British Airways, Centurion Lounge, Covid, frequent flier programs, Iberia Airlines, O’Hare, Sonoran Food, Southwest Airlines, Timeshare Rentals, Tucson, travel planning, travel tips, travel stories</itunes:keywords>
             <itunes:duration>28:17</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
@@ -60,7 +78,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:subtitle>Pivot from San Diego to Tucson for COVID restrictions; planning tips for travel during COVID; CEO of Privacy4Cars talks about leaving data behind in rental cars</itunes:subtitle>
             <itunes:summary>Pivot from San Diego to Tucson for COVID restrictions; planning tips for travel during COVID; CEO of Privacy4Cars talks about leaving data behind in rental cars</itunes:summary>
-            <itunes:keywords>	Arizona, Bluetooth, California, car rental, Covid, Data Privacy, Digital Vaccine Passports, Fake Vaccination, Hertz, Python, travel planning, travel tips, travel stories, Untappd, Vaccination</itunes:keywords>
+            <itunes:keywords>Arizona, Bluetooth, California, car rental, Covid, Data Privacy, Digital Vaccine Passports, Fake Vaccination, Hertz, Python, travel planning, travel tips, travel stories, Untappd, Vaccination</itunes:keywords>
             <itunes:duration>27:33</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
