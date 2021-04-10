@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Fri, 12 Mar 2021 15:01:01 -0600</pubDate>
-        <lastBuildDate>Fri, 12 Mar 2021 15:01:01 -0600</lastBuildDate>
+        <pubDate>Sat, 10 Apr 2021 13:30:01 -0500</pubDate>
+        <lastBuildDate>Sat, 10 Apr 2021 13:30:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>How the Pros Plan Their Taproom Tourism</title>
+            <description><![CDATA[Looking at the <i>Beer</i> section of this new website design, I saw I needed more content. So I got hold of Rob Cheshire of the <i><a href="https://thisweekincraft.beer/">This Week in Craft Beer</a></i> podcast to talk about our approaches to taproom tourism and to trade taproom travel stories. I also talk about mask hassles on a couple of recent flights, Hertz's continuing downward service spiral, and Uber and Lyft driver shortages.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/04/10/podcast-174-how-the-pros-plan-their-taproom-tourism/">here</a> and the uncut video of Rob's and I beer chat <a href="http://travelcommons.com/2021/03/28/podcast-174-uncut-taproom-tourism/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/04/10/podcast-174-how-the-pros-plan-their-taproom-tourism/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_174.mp3" length="19497565" type="audio/mpeg"/>
+            <guid isPermaLink="false">ddc90fd6-c75b-447f-8c88-1682759ac7e5</guid>
+            <pubDate>Sat, 10 Apr 2021 13:30:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Why and how we search out craft beer taprooms, and telling some taproom travel stories; Also mask hassles on my last couple of flights, Hertz continues to circle the drain; Uber and Lyft splashing cash to bring back drivers</itunes:subtitle>
+            <itunes:summary>Why and how we search out craft beer taprooms, and telling some taproom travel stories; Also mask hassles on my last couple of flights, Hertz continues to circle the drain; Uber and Lyft splashing cash to bring back drivers</itunes:summary>
+            <itunes:keywords>Avios, Beer Tourism, British Airways, Craft Beer, Hertz, Lyft, Ocean Beach, Plane Mask, Ride Sharing, San Diego, Taprooms, Travel Insurance, travel planning, travel stories, Uber, Untappd, travel tips, business travel</itunes:keywords>
+            <itunes:duration>26:41</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>174</itunes:episode>
+        </item>
         <item>
             <title>What's New in Travel Insurance; Keeping Ahead of Expiring Miles</title>
             <description><![CDATA[As travel bookings beginning to rise with vaccination rates, we talk with Michael Giusti of InsuranceQuotes.com to find out what's changed over the last year. I make the rounds through all my frequent traveler programs to reset impending expiration dates. We also talk about yet another travel data breach, a favorite beer bar is a COVID casualty, and bankrupt Hertz is starting to let its cars get old.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/03/12/podcast-173-whats-new-in-travel-insurance-keeping-ahead-of-expiring-miles/">here</a>]]></description>
@@ -209,24 +227,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>164</itunes:episode>
-        </item>
-	      <item>
-            <title>New World of Travel Insurance; Getting Medical Help On The Road</title>
-            <description>People are doing short car trips. Before doing more extensive travel, they'll want more spacing in aircraft, travel insurance, and finding medical attention on the road</description>
-            <link>http://travelcommons.com/2020/05/08/podcast-163-new-world-of-travel-insurance-getting-medical-help-on-the-road</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_163.mp3" length="20409789" type="audio/mpeg"/>
-            <guid isPermaLink="false">b0ac3c30-3c12-493a-b208-91a02b8aa608</guid>
-            <pubDate>Fri, 8 May 2020 08:30:01 CDT</pubDate>
-            <itunes:subtitle>People are doing short car trips. Before doing more extensive travel, they'll want more spacing in aircraft, travel insurance, and finding medical attention on the road</itunes:subtitle>
-            <itunes:summary>Though I'm still locked down on the shores of Lake Michigan, data shows that people are starting to do short car trips. We talk about what people will need to feel comfortable to do more extensive travel - spacing in aircraft, and putting a higher priority on travel insurance and finding medical attention.</itunes:summary>
-            <itunes:duration>27:57</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>Coronavirus, Covid-19, Doctor, Frontier Airlines, Lockdown, road trip, Thailand, Travel Clinic, Travel Insurance, travel planning, travel stories</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>163</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
