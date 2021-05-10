@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 11 Apr 2021 08:05:01 -0500</pubDate>
-        <lastBuildDate>Sun, 11 Apr 2021 08:05:01 -0500</lastBuildDate>
+        <pubDate>Sun, 9 May 2021 19:10:01 -0500</pubDate>
+        <lastBuildDate>Sun, 9 May 2021 19:10:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>How to Find Local Tour Guides; Rebuild Travel Muscles</title>
+            <description><![CDATA[I can feel travel beginning to come back. TSA checkpoint volumes are hitting post-pandemic highs, business travelers are starting to come out from behind their Zoom sessions, and vaccination rates are prompting more people to make travel plans. So on this episode, we first talk to Paul Melhus, CEO of ToursByLocals about the state of the local tour market and then about how frequent travelers are starting to stretch their atrophied travel muscles.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/05/09/podcast-175-how-to-find-local-tour-guides-rebuild-travel-muscles/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/05/09/podcast-175-how-to-find-local-tour-guides-rebuild-travel-muscles/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_175.mp3" length="19252887" type="audio/mpeg"/>
+            <guid isPermaLink="false">738271c2-9c50-421b-8d83-4f4858f1e833</guid>
+            <pubDate>Sun, 9 May 2021 19:10:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Feeling travel coming back, we talk to CEO of ToursByLocals about the local tour market and then how frequent travelers are working on atrophied travel muscles.</itunes:subtitle>
+            <itunes:summary>Feeling travel coming back, we talk to CEO of ToursByLocals about the local tour market and then how frequent travelers are working on atrophied travel muscles.</itunes:summary>
+            <itunes:keywords>business travel, Chase Sapphire Visa, COVID, Frequent Traveler, Guided Tours, Hertz, PreCheck, Real ID, Ride Sharing, Travel Insurance, travel podcast, travel stories, travel tips, Uber</itunes:keywords>
+            <itunes:duration>26:21</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>175</itunes:episode>
+        </item>
         <item>
             <title>How the Pros Plan Their Taproom Tourism</title>
             <description><![CDATA[Looking at the <i>Beer</i> section of this new website design, I saw I needed more content. So I got hold of Rob Cheshire of the <i><a href="https://thisweekincraft.beer/">This Week in Craft Beer</a></i> podcast to talk about our approaches to taproom tourism and to trade taproom travel stories. I also talk about mask hassles on a couple of recent flights, Hertz's continuing downward service spiral, and Uber and Lyft driver shortages.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/04/10/podcast-174-how-the-pros-plan-their-taproom-tourism/">here</a> and the uncut video of Rob's and my beer chat <a href="http://travelcommons.com/2021/03/28/podcast-174-uncut-taproom-tourism/">here</a>]]></description>
@@ -281,24 +299,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>40</itunes:episode>
-        </item>
-        <item>
-            <title>Best of 2005</title>
-            <description>The best of the 2005 episodes of TravelCommons</description>
-	          <link>http://travelcommons.com/2005/12/27/podcast-27-best-of-2005/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_27.mp3" length="10858496" type="audio/mpeg3"></enclosure>
-            <guid isPermaLink="false">d2a56296-ab43-4aff-8809-82fa4151b1ce</guid>
-            <pubDate>Tue, 27 Dec 2005 11:38:21 CST</pubDate>
-	          <itunes:subtitle>The best of the 2005 episodes of TravelCommons</itunes:subtitle>
-	          <itunes:summary>Spent the holiday week digging through the TravelCommon archives and assembled a Best of TravelCommons 2005 episode. Starting with a medley of hotel bathrooms, we revisit some rants on the TSA, the 3-episode Sean Penn arc, and excerpts from some of the best stories of 2005</itunes:summary>
-            <itunes:duration>22:34</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>27</itunes:episode>
         </item>
         <item>
             <title>TravelCommons Promo</title>
