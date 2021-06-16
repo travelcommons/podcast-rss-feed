@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 9 May 2021 19:10:01 -0500</pubDate>
-        <lastBuildDate>Sun, 9 May 2021 19:10:01 -0500</lastBuildDate>
+        <pubDate>Tue, 15 Jun 2021 19:10:01 -0500</pubDate>
+        <lastBuildDate>Tue, 15 Jun 2021 19:10:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Why Business Travel Is Coming Back; Learning Airport History</title>
+            <description><![CDATA[Business travelers are getting itchy. They know Zoom calls can't replace a face-to-face meeting, but they can't meet with people who aren't in their offices yet. We also talk about how surprisingly great the LaGuardia Terminal B renovation is, and then talk about airport history with Professor Janet Bednarek, professor of history at University of Dayton.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/06/15/podcast-176-why-business-travel-is-coming-back-learning-airport-history/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/06/15/podcast-176-why-business-travel-is-coming-back-learning-airport-history/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_176.mp3" length="19444373" type="audio/mpeg"/>
+            <guid isPermaLink="false">39635c03-97dd-488a-a8c0-5a1523e65872</guid>
+            <pubDate>Tue, 15 Jun 2021 19:10:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Business travelers know Zoom calls do not replace face-to-face meetings and want to travel again; fantastic LaGuardia renovation; the early history of airports</itunes:subtitle>
+            <itunes:summary>Business travelers know Zoom calls do not replace face-to-face meetings and want to travel again; fantastic LaGuardia renovation; the early history of airports</itunes:summary>
+            <itunes:keywords>Airports, business travel, Dayton, Frequent Traveler, History, LaGuardia, Miami, PreCheck, Ride Sharing, travel stories, travel tips, TSA, Uber</itunes:keywords>
+            <itunes:duration>26:36</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>176</itunes:episode>
+        </item>
         <item>
             <title>How to Find Local Tour Guides; Rebuild Travel Muscles</title>
             <description><![CDATA[I can feel travel beginning to come back. TSA checkpoint volumes are hitting post-pandemic highs, business travelers are starting to come out from behind their Zoom sessions, and vaccination rates are prompting more people to make travel plans. So on this episode, we first talk to Paul Melhus, CEO of ToursByLocals about the state of the local tour market and then about how frequent travelers are starting to stretch their atrophied travel muscles.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/05/09/podcast-175-how-to-find-local-tour-guides-rebuild-travel-muscles/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>165</itunes:episode>
-        </item>
-	      <item>
-            <title>First Post-Lockdown Trips; Travel Credit Cards</title>
-            <description>First post-lockdown trip, a fast drive down I-65. Talk about hotels swapping hospitality for sanitation, Hertz's bankruptcy, tips for travel credit card usage</description>
-            <link>http://travelcommons.com/2020/06/09/podcast-164-first-post-lockdown-trips-travel-credit-cards/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_164.mp3" length="18938054" type="audio/mpeg"/>
-            <guid isPermaLink="false">d8089b31-4e46-414f-ad2f-099d85d68167</guid>
-            <pubDate>Tue, 9 Jun 2020 17:41:01 CDT</pubDate>
-            <itunes:subtitle>First post-lockdown trip, a fast drive down I-65. Talk about hotels swapping hospitality for sanitation, Hertz's bankruptcy, tips for travel credit card usage</itunes:subtitle>
-            <itunes:summary>I broke Chicago's containment for my first post-lockdown trip, a fast drive down I-65. We talk about hotels swapping hospitality for sanitation, Hertz's bankruptcy, and tips for travel credit card usage</itunes:summary>
-            <itunes:duration>25:54</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>American Airlines, Coronavirus, Covid-19, Credit Cards, Delta Airlines, Driving, Hertz, Hilton, MD-80, road trip, travel planning, travel podcast, travel stories, travel tips</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>164</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
