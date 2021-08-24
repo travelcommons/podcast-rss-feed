@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 15 Jun 2021 19:10:01 -0500</pubDate>
-        <lastBuildDate>Tue, 15 Jun 2021 19:10:01 -0500</lastBuildDate>
+        <pubDate>Wed, 28 Jul 2021 09:40:01 -0500</pubDate>
+        <lastBuildDate>Wed, 28 Jul 2021 10:05:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>B-Sides and Rarities</title>
+            <description><![CDATA[After a 2-week, 2,500-mile driving expedition through the Northeast, there wasn't much time to write a new episode. So, I mined recent interviews for stories that got left on the cutting room floor. Also talk about COVID planning for a fall trip to Italy and mourn the demise of American Airlines’ in-flight magazine.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/07/28/podcast-177-b-sides-and-rarities/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/07/28/podcast-177-b-sides-and-rarities/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_177.mp3" length="24026266" type="audio/mpeg"/>
+            <guid isPermaLink="false">9d434ebf-bb11-442a-84bf-135db5af8251</guid>
+            <pubDate>Wed, 28 Jul 2021 09:40:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Driving thru the Northeast; tracking COVID requirements for a fall Italy trip; updates to traveler gift guide; death of in-flight magazines; interview outtakes</itunes:subtitle>
+            <itunes:summary>Driving thru the Northeast; tracking COVID requirements for a fall Italy trip; updates to traveler gift guide; death of in-flight magazines; interview outtakes</itunes:summary>
+            <itunes:keywords>COVID test, COVID travel rules, dining, Driving, Gift Guide, In-Flight Entertainment, Italy, Maine, travel stories, TSA, travel tips, travel podcast, frequent traveler</itunes:keywords>
+            <itunes:duration>32:58</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>177</itunes:episode>
+        </item>
         <item>
             <title>Why Business Travel Is Coming Back; Learning Airport History</title>
             <description><![CDATA[Business travelers are getting itchy. They know Zoom calls can't replace a face-to-face meeting, but they can't meet with people who aren't in their offices yet. We also talk about how surprisingly great the LaGuardia Terminal B renovation is, and then talk about airport history with Professor Janet Bednarek, professor of history at University of Dayton.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/06/15/podcast-176-why-business-travel-is-coming-back-learning-airport-history/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>166</itunes:episode>
-        </item>
-	      <item>
-            <title>First Post-Lockdown Flight; When Does Business Travel Come Back?</title>
-            <description>Experiences on my first post-lockdown flight; Hertz's new cleaning program; reviewing my new pair of Bose headphones, wonder when business travel will return</description>
-            <link>http://travelcommons.com/2020/07/17/podcast-165-first-post-lockdown-flight-when-does-business-travel-come-back/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_165.mp3" length="17001558" type="audio/mpeg"/>
-            <guid isPermaLink="false">8a0ddf3f-fd47-4683-a2c9-41d2aff0dd8a</guid>
-            <pubDate>Fri, 17 Jul 2020 21:07:01 CDT</pubDate>
-            <itunes:subtitle>Experiences on my first post-lockdown flight; Hertz's new cleaning program; reviewing my new pair of Bose headphones, wonder when business travel will return</itunes:subtitle>
-            <itunes:summary>My first post-lockdown flight was a 90-minute Southwest non-stop from Chicago to Nashville. It wasn't bad, but not as casually easy as my last pre-coronavirus flight in February. We talk about that experience as well as Hertz's new cleaning program, my latest pair of Bose noise-cancelling headphones, and then wonder when business travel will return</itunes:summary>
-            <itunes:duration>23:13</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>Bose Headphones, business travel, Cashless, Coronavirus, Covid-19, Facial Recognition, Hertz, iPhone, Lockdown, Midway Airport, Nashville, Southwest Airlines, travel stories, travel tips, travel podcast</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>165</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
