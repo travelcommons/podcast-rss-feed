@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Wed, 28 Jul 2021 09:40:01 -0500</pubDate>
-        <lastBuildDate>Wed, 28 Jul 2021 10:05:01 -0500</lastBuildDate>
+        <pubDate>Tue, 24 Aug 2021 18:01:01 -0500</pubDate>
+        <lastBuildDate>Tue, 24 Aug 2021 18:01:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>What Remains from Pandemic Times; Best Restaurant and Bars</title>
+            <description><![CDATA[Last month's travel got me wondering what travel changes are going to stick after the COVID pandemic begins to recede. With all the restaurant and bar closures caused by COVID lockdowns, I'm updating my recommendations list based on recent travels. And, I'm way overthinking our first post-lockdown international trip.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/08/24/podcast-178-what-remains-from-pandemic-times-best-restaurant-and-bars/">here</a> and the blog post with my 2021 restaurant and bar recommendations <a href="http://travelcommons.com/2021/08/14/my-best-restaurants-and-bars-of-2021/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/08/24/podcast-178-what-remains-from-pandemic-times-best-restaurant-and-bars/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_178.mp3" length="19917752" type="audio/mpeg"/>
+            <guid isPermaLink="false">d32a2115-d3e4-4b80-9242-9e672606ce03</guid>
+            <pubDate>Tue, 24 Aug 2021 18:01:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Hotel changes and cashless restaurants likely to stick after pandemic fades; updating recommendations after restaurant and bar closures from COVID lockdowns</itunes:subtitle>
+            <itunes:summary>Hotel changes and cashless restaurants likely to stick after pandemic fades; updating recommendations after restaurant and bar closures from COVID lockdowns</itunes:summary>
+            <itunes:keywords>AirDrop, bars, Cash, Cashless, COVID travel rules, Hilton, Maine, Masks, Pandemic, restaurants, Southwest Airlines, travel podcast, travel stories, travel tips, TSA, Waze, frequent traveler</itunes:keywords>
+            <itunes:duration>27:16</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>178</itunes:episode>
+        </item>
         <item>
             <title>B-Sides and Rarities</title>
             <description><![CDATA[After a 2-week, 2,500-mile driving expedition through the Northeast, there wasn't much time to write a new episode. So, I mined recent interviews for stories that got left on the cutting room floor. Also talk about COVID planning for a fall trip to Italy and mourn the demise of American Airlines’ in-flight magazine.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/07/28/podcast-177-b-sides-and-rarities/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>167</itunes:episode>
-        </item>
-	      <item>
-            <title>What Is The Meaning of Travel?</title>
-            <description>Travel planning amidst changing quarantines and lockdowns; writing off Barcelona trip; Emily Thomas and her new book "The Meaning of Travel: Philosophers Abroad"</description>
-            <link>http://travelcommons.com/2020/08/13/podcast-166-what-is-the-meaning-of-travel/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_166.mp3" length="21414069" type="audio/mpeg"/>
-            <guid isPermaLink="false">253042b5-f8a5-400a-8769-70f7e82bad29</guid>
-            <pubDate>Thu, 13 Aug 2020 11:06:01 CDT</pubDate>
-            <itunes:subtitle>Travel planning amidst changing quarantines and lockdowns; writing off Barcelona trip; Emily Thomas and her new book "The Meaning of Travel: Philosophers Abroad"</itunes:subtitle>
-            <itunes:summary>Trying to plan an August trip amidst dueling state quarantine lists and rapid lockdown changes while writing off my September plans for Barcelona. What's worse - hotels cutting back on housekeeping or breakfasts? And talking with Emily Thomas about her new book "The Meaning of Travel: Philosophers Abroad".</itunes:summary>
-            <itunes:duration>29:21</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>American Airlines, Barcelona, breakfast, Cabin Porn, Coronavirus, Covid-19, Emily Thomas, Henry David Thoreau, Hotels, Meaning of Travel, Philosophy, Timbuk2, Travel Itinerary, travel planning, travel podcast, travel tips</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>166</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
