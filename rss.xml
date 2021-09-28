@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 24 Aug 2021 18:01:01 -0500</pubDate>
-        <lastBuildDate>Tue, 24 Aug 2021 18:01:01 -0500</lastBuildDate>
+        <pubDate>Mon, 27 Sep 2021 21:44:01 -0500</pubDate>
+        <lastBuildDate>Mon, 27 Sep 2021 21:44:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>High-Tech Airport Lines; Business Travel Still Missing</title>
+            <description><![CDATA[Not much travel, but a lot of travel planning for our first post-lockdown international trip to Italy. Trying to thread our way through changing COVID rules and Alitalia’s bankruptcy throes. I’m getting inundated with discount offers for Clear’s fast-pass service. I’ve resisted them so far, because I remember back to when the first incarnation of Clear wanted to sell its members’ biometric data. We then talk to Xovis Technology‘s Cody Shulman about how airports are better managing all sorts of lines in airports. Finally, air passenger traffic is dropping again because business travelers are still MIA.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/08/24/podcast-178-what-remains-from-pandemic-times-best-restaurant-and-bars/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/09/27/podcast-179-high-tech-airport-lines-business-travel-still-missing/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_179.mp3" length="20571922" type="audio/mpeg"/>
+            <guid isPermaLink="false">adaeaa56-762f-4b10-b4f6-308b323cda72</guid>
+            <pubDate>Mon, 27 Sep 2021 21:44:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Planning our Italy trip around new COVID rules and Alitalia bankruptcy; airports managing lines with AI and high-tech sensors; business travelers still missing</itunes:subtitle>
+            <itunes:summary>Planning our Italy trip around new COVID rules and Alitalia bankruptcy; airports managing lines with AI and high-tech sensors; business travelers still missing</itunes:summary>
+            <itunes:keywords>Alitalia, business travel, CLEAR registered traveler, Global Entry, Italy, security lines, Southwest Airlines, travel planning, travel stories, travel tips, TSA, frequent traveler</itunes:keywords>
+            <itunes:duration>28:11</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>179</itunes:episode>
+        </item>
         <item>
             <title>What Remains from Pandemic Times; Best Restaurant and Bars</title>
             <description><![CDATA[Last month's travel got me wondering what travel changes are going to stick after the COVID pandemic begins to recede. With all the restaurant and bar closures caused by COVID lockdowns, I'm updating my recommendations list based on recent travels. And, I'm way overthinking our first post-lockdown international trip.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/08/24/podcast-178-what-remains-from-pandemic-times-best-restaurant-and-bars/">here</a> and the blog post with my 2021 restaurant and bar recommendations <a href="http://travelcommons.com/2021/08/14/my-best-restaurants-and-bars-of-2021/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>168</itunes:episode>
-        </item>
-	      <item>
-            <title>6 Months On; Why Keep Travel Cards?</title>
-            <description>Drivable getaway to Michigan's Upper Peninsula; looking back 6 months to start of pandemic; downloading 12 years of TripIt data; what to do with travel card points we can't use?</description>
-            <link>http://travelcommons.com/2020/09/19/podcast-167-6-months-on-why-keep-travel-cards/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_167.mp3" length="18540884" type="audio/mpeg"/>
-            <guid isPermaLink="false">4738079E-7E52-43ED-BD33-C0D1C49F3AA2</guid>
-            <pubDate>Sat, 19 Sep 2020 16:05:01 CDT</pubDate>
-            <itunes:subtitle>Drivable getaway to Michigan's Upper Peninsula; looking back 6 months to start of pandemic; downloading 12 years of TripIt data; what to do with travel card points we can't use?</itunes:subtitle>
-            <itunes:summary>Spent a week in Michigan's Upper Peninsula hiking, biking, kayaking, and running into a lot of other people getting away to do the same, which got me looking back six months to the start of the pandemic. I talk about a surprisingly good flight cancellation experience with American Airlines, and figuring out how to download 12 years of TripIt data. We wrap up talking to Matt Schulz of LendingTree, asking him what are we doing with travel credit cards that are generating frequent traveler points we can’t use?</itunes:summary>
-            <itunes:duration>25:21</itunes:duration>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:keywords>American Airlines, Barcelona, business travel, Covid-19, Credit Cards, Delta Airlines, Leisure Travel, Michigan, SkyMiles, travel planning, travel podcast, travel stories, travel tips, Trip Cancellation, TripIt, Upper Peninsula</itunes:keywords>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>167</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
