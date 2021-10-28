@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Mon, 27 Sep 2021 21:44:01 -0500</pubDate>
-        <lastBuildDate>Mon, 27 Sep 2021 21:44:01 -0500</lastBuildDate>
+        <pubDate>Thu, 28 Oct 2021 18:05:01 -0500</pubDate>
+        <lastBuildDate>Thu, 28 Oct 2021 18:05:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -31,8 +31,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Tracking COVID Travel Requirements; Cycling Thru Puglia</title>
+            <description><![CDATA[Back at the microphone after two weeks in Southern Italy. Lots of travel segments that could’ve gone wrong, but none of them did. We talk about what international travel is like in COVID times, about the challenge of keeping track and complying with the different COVID travel requirements that seem to be constantly changing, and then some thoughts about our bike tour through Puglia .<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_180.mp3" length="21159669" type="audio/mpeg"/>
+            <guid isPermaLink="false">c2a231ba-62a7-4162-be97-f8dd79108986</guid>
+            <pubDate>Thu, 28 Oct 2021 18:05:01 -0500</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>What international travel is like in COVID times; tracking different country and regional COVID travel requirements that keep changing; cycling tour thru Puglia</itunes:subtitle>
+            <itunes:summary>What international travel is like in COVID times; tracking different country and regional COVID travel requirements that keep changing; cycling tour thru Puglia</itunes:summary>
+            <itunes:keywords>	Air France, Alitalia, bicycling Tour, business travel, Catania, COVID travel rules, Global Entry, Italy, Puglia, travel podcast, travel stories, travel tips, United Airlines, VPN, frequent traveler</itunes:keywords>
+            <itunes:duration>29:00</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>180</itunes:episode>
+        </item>
+        <item>
             <title>High-Tech Airport Lines; Business Travel Still Missing</title>
-            <description><![CDATA[Not much travel, but a lot of travel planning for our first post-lockdown international trip to Italy. Trying to thread our way through changing COVID rules and Alitalia’s bankruptcy throes. I’m getting inundated with discount offers for Clear’s fast-pass service. I’ve resisted them so far, because I remember back to when the first incarnation of Clear wanted to sell its members’ biometric data. We then talk to Xovis Technology‘s Cody Shulman about how airports are better managing all sorts of lines in airports. Finally, air passenger traffic is dropping again because business travelers are still MIA.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/08/24/podcast-178-what-remains-from-pandemic-times-best-restaurant-and-bars/">here</a>]]></description>
+            <description><![CDATA[Not much travel, but a lot of travel planning for our first post-lockdown international trip to Italy. Trying to thread our way through changing COVID rules and Alitalia’s bankruptcy throes. I’m getting inundated with discount offers for Clear’s fast-pass service. I’ve resisted them so far, because I remember back to when the first incarnation of Clear wanted to sell its members’ biometric data. We then talk to Xovis Technology‘s Cody Shulman about how airports are better managing all sorts of lines in airports. Finally, air passenger traffic is dropping again because business travelers are still MIA.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/09/27/podcast-179-high-tech-airport-lines-business-travel-still-missing/">here</a>]]></description>
             <link>http://travelcommons.com/2021/09/27/podcast-179-high-tech-airport-lines-business-travel-still-missing/</link>
             <author>mpeacock@travelcommons.com (Mark Peacock)</author>
             <category domain="">Travel</category>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>169</itunes:episode>
-        </item>
-        <item>
-            <title>Surviving Quarantine Theater; Traveling for Food</title>
-            <description><![CDATA[Trying to recover from a long weekend of eating and drinking through the neighborhoods of South Philly. Our movable feast reminded me that food may be the one experience of a place left that can’t be easily exported and bought on-line. We talk about the FBI’s cybersecurity warning to work-from-home types using hotels for getaway offices, and are a bit amazed at how fast last year’s 'flight shaming' gave way to 'flights to nowhere.' And we think about 'quarantine theater' — how cities and states are focusing on activities to signal they are serious about COVID, but that most folks know aren’t really effective.]]></description>
-            <link>http://travelcommons.com/2020/10/16/podcast-168-surviving-quarantine-theater-traveling-for-food/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_168.mp3" length="19676595" type="audio/mpeg"/>
-            <guid isPermaLink="false">1F371BF0-13E0-496A-A10E-975341F108AD</guid>
-            <pubDate>Fri, 16 Oct 2020 20:57:10 -0500</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Eating local in South Philly and the UP; FBI cybersecurity warning on working from hotels; ‘flight shaming’ gives way to ‘flights to nowhere’; signaling concern about COVID does nothing but hassles travelers</itunes:subtitle>
-            <itunes:summary>Eating local in South Philly and the UP; FBI cybersecurity warning on working from hotels; ‘flight shaming’ gives way to ‘flights to nowhere’; signaling concern about COVID does nothing but hassles travelers</itunes:summary>
-            <itunes:keywords>Chicago, Coronavirus, Covid-19, Cyber Security, FBI, Flight Shaming, food, Hygiene Theater, Maine, Michigan, Pasties, Philadelphia, Quarantine, Quarantine Theater, Upper Peninsula, VPN, Travel Stories, Travel Tips, Travel Podcast</itunes:keywords>
-            <itunes:duration>26:56</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>168</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
