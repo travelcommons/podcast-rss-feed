@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 28 Oct 2021 18:05:01 -0500</pubDate>
-        <lastBuildDate>Thu, 28 Oct 2021 18:05:01 -0500</lastBuildDate>
+        <pubDate>Sat, 13 Nov 2021 12:09:01 -0600</pubDate>
+        <lastBuildDate>Sat, 13 Nov 2021 12:09:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -31,8 +31,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Travel Potpourri for $600; 2021 Traveler’s Gift Guide</title>
+            <description><![CDATA[No travel since the last episode, so just talking through a random potpourri of travel stuff. There's more travel planning; this time for a couple of weeks split between London and Wales which means sorting through a new set of COVID travel requirements. We look at some stats -- Uber's latest financials and how deeply last year's lockdown hit Nashville airport vendors.  I marvel at how much European mobile data rates have fallen, strip down my English to have a deeper chat with an Italian bartender, and wrap it all up with the highlight of this year's traveler's gift guide.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/11/13/podcast-181-travel-potpourri-2021-travelers-gift-guide/">here</a> and the 2021 Traveler's Gift Guide post <a href="http://travelcommons.com/2021/11/04/10-best-travel-gift-ideas-to-survive-post-pandemic-travel/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/11/13/podcast-181-travel-potpourri-2021-travelers-gift-guide/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_181.mp3" length="18050714" type="audio/mpeg"/>
+            <guid isPermaLink="false">0d76e56d-cd83-4993-8e2f-a9b616fe0556</guid>
+            <pubDate>Sat, 13 Nov 2021 11:09:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>UK travel planning; Is Uber dying or resurrecting; Nashville airport vendors clawing back from the lockdown; stripping my English down to its basics; 2021 traveler's gift guide highlights</itunes:subtitle>
+            <itunes:summary>UK travel planning; Is Uber dying or resurrecting; Nashville airport vendors clawing back from the lockdown; stripping my English down to its basics; 2021 traveler's gift guide highlights</itunes:summary>
+            <itunes:keywords>COVID travel rules, Craft Beer, Digital Vaccine Passports, Frequent Flyer Status, Gift Guide, Italy, Nashville, Prepaid mobile data, Travel Accessories, travel gift ideas, Travel Gifts, Travel Technology, travel tips, Uber, travel podcast, travel stories</itunes:keywords>
+            <itunes:duration>24:40</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>181</itunes:episode>
+        </item>
+        <item>
             <title>Tracking COVID Travel Requirements; Cycling Thru Puglia</title>
-            <description><![CDATA[Back at the microphone after two weeks in Southern Italy. Lots of travel segments that could’ve gone wrong, but none of them did. We talk about what international travel is like in COVID times, about the challenge of keeping track and complying with the different COVID travel requirements that seem to be constantly changing, and then some thoughts about our bike tour through Puglia .<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/">here</a>]]></description>
+            <description><![CDATA[Back at the microphone after two weeks in Southern Italy. Lots of travel segments that could’ve gone wrong, but none of them did. We talk about what international travel is like in COVID times, about the challenge of keeping track and complying with the different COVID travel requirements that seem to be constantly changing, and then some thoughts about our bike tour through Puglia.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/">here</a>]]></description>
             <link>http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/</link>
             <author>mpeacock@travelcommons.com (Mark Peacock)</author>
             <category domain="">Travel</category>
@@ -42,7 +60,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:subtitle>What international travel is like in COVID times; tracking different country and regional COVID travel requirements that keep changing; cycling tour thru Puglia</itunes:subtitle>
             <itunes:summary>What international travel is like in COVID times; tracking different country and regional COVID travel requirements that keep changing; cycling tour thru Puglia</itunes:summary>
-            <itunes:keywords>	Air France, Alitalia, bicycling Tour, business travel, Catania, COVID travel rules, Global Entry, Italy, Puglia, travel podcast, travel stories, travel tips, United Airlines, VPN, frequent traveler</itunes:keywords>
+            <itunes:keywords>Air France, Alitalia, bicycling Tour, business travel, Catania, COVID travel rules, Global Entry, Italy, Puglia, travel podcast, travel stories, travel tips, United Airlines, VPN, frequent traveler</itunes:keywords>
             <itunes:duration>29:00</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>170</itunes:episode>
-        </item>
-        <item>
-            <title>Pandemic Holiday Gift Guide; Year-End Status Offers</title>
-            <description><![CDATA[No travel since the last episode, so I had some time to think back through my post-lockdown travel and come up with my top 10 <a href="http://travelcommons.com/2020/11/04/10-best-travel-gift-ideas-for-these-unprecedented-times/">gift ideas</a> for your pandemic travelers.  We look at the start of the year-end efforts by airlines, hotels, and credit card companies to keep their grounded travelers, unpack the work-from-hotel offerings from Marriott, Hilton, and Hyatt, and dissect the latest hotel reservation system data breach.<br>Check out this episode's show notes <a href="http://travelcommons.com/2020/11/12/podcast-169-pandemic-holiday-gift-guide-year-end-status-offers/">here</a>]]></description>
-            <link>http://travelcommons.com/2020/11/12/podcast-169-pandemic-holiday-gift-guide-year-end-status-offers/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_169.mp3" length="21665976" type="audio/mpeg"/>
-            <guid isPermaLink="false">628e0f0f-5c87-4df1-beae-94efdc7bcdcf</guid>
-            <pubDate>Thu, 12 Nov 2020 20:00:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Top 10 gift ideas for pandemic travelers; year-end status offers from airlines, hotels, and travel credit cards; work-from-hotel offerings; latest hotel reservation system data breach.</itunes:subtitle>
-            <itunes:summary>Top 10 gift ideas for pandemic travelers; year-end status offers from airlines, hotels, and travel credit cards; work-from-hotel offerings; latest hotel reservation system data breach.</itunes:summary>
-            <itunes:keywords>travel gift ideas, best travel gift ideas, travel gifts, gift ideas for travelers, best travel gifts, gift for traveler, travel accessories, travel stories, travel tips, travel podcast, frequent flyer status, frequent flier status, travel credit cards</itunes:keywords>
-            <itunes:duration>29:42</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>169</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
