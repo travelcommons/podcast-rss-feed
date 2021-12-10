@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sat, 13 Nov 2021 12:09:01 -0600</pubDate>
-        <lastBuildDate>Sat, 13 Nov 2021 12:09:01 -0600</lastBuildDate>
+        <pubDate>Fri, 10 Dec 2021 10:06:01 -0600</pubDate>
+        <lastBuildDate>Fri, 10 Dec 2021 10:06:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Yet More COVID Changes; Words That Mean Adventure</title>
+            <description><![CDATA[Back in front of the microphone after a two-week trip to the UK, getting back home just before the new Omicron travel restrictions hit. We talk about getting to London, surfing the waves of changing travel requirements, a new way to renew Global Entry, moan a bit more about the inexorable advance of the cashless society, and finish up talking with Josh Glenn about his new book <i>The Adventurer’s Glossary</i>. <br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/12/10/podcast-182-more-covid-changes-words-that-mean-adventure/">here</a>]]></description>
+            <link>http://travelcommons.com/2021/12/10/podcast-182-more-covid-changes-words-that-mean-adventure/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_182.mp3" length="20858101" type="audio/mpeg"/>
+            <guid isPermaLink="false">a027e60d-d24e-40ca-85cf-a23c3ff1e96f</guid>
+            <pubDate>Fri, 10 Dec 2021 10:06:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Traveling to the UK; dodging Omicron travel restrictions; tracking COVID rule changes; renewing Global Entry; interviewing author of The Adventurer’s Glossary</itunes:subtitle>
+            <itunes:summary>Traveling to the UK; dodging Omicron travel restrictions; tracking COVID rule changes; renewing Global Entry; interviewing author of The Adventurer’s Glossary</itunes:summary>
+            <itunes:keywords>Adventure, American Airlines, Author Interview, Cashless, COVID test, COVID travel rules, Digital Vaccine Passports, Global Entry, Glossary, Heathrow, Hertz, London, Rapid Antigen Test, Semiotics, travel stories, travel tips, travel podcast, UK</itunes:keywords>
+            <itunes:duration>28:34</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>182</itunes:episode>
+        </item>
         <item>
             <title>Travel Potpourri for $600; 2021 Traveler’s Gift Guide</title>
             <description><![CDATA[No travel since the last episode, so just talking through a random potpourri of travel stuff. There's more travel planning; this time for a couple of weeks split between London and Wales which means sorting through a new set of COVID travel requirements. We look at some stats -- Uber's latest financials and how deeply last year's lockdown hit Nashville airport vendors.  I marvel at how much European mobile data rates have fallen, strip down my English to have a deeper chat with an Italian bartender, and wrap it all up with  highlights from this year's traveler's gift guide.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/11/13/podcast-181-travel-potpourri-2021-travelers-gift-guide/">here</a> and the 2021 Traveler's Gift Guide post <a href="http://travelcommons.com/2021/11/04/10-best-travel-gift-ideas-to-survive-post-pandemic-travel/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>171</itunes:episode>
-        </item>
-        <item>
-            <title>Show Me the Proof; Hereditary Road Warriors</title>
-            <description><![CDATA[No Thanksgiving travel, but looking at the travel volume for this, the busiest travel week of the year, shows just how far things have fallen. The Qantas CEO said “No vax, no fly”, so we dig into the emerging world of digital vaccine passports. And then I trace my travel genealogy, wondering if road warrior-ism is hereditary.<br>Check out this episode's show notes <a href="http://travelcommons.com/2020/12/16/podcast-170-show-me-the-proof-hereditary-road-warriors/">here</a>]]></description>
-            <link>http://travelcommons.com/2020/12/16/podcast-170-show-me-the-proof-hereditary-road-warriors/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_170.mp3" length="18701818" type="audio/mpeg"/>
-            <guid isPermaLink="false">063a3aa8-641c-4d7a-83fa-0046f7fc7a30</guid>
-            <pubDate>Wed, 16 Dec 2020 22:32:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Thanksgiving travel volume shows how far things have fallen; we dig into digital vaccine passports; tracing my travel genealogy, is road warrior-ism hereditary?</itunes:subtitle>
-            <itunes:summary>Thanksgiving travel volume shows how far things have fallen; we dig into digital vaccine passports; tracing my travel genealogy, is road warrior-ism hereditary?</itunes:summary>
-            <itunes:keywords>Coronavirus, Covid-19, Digital Vaccine Passports, Holiday Travel, Hotel Room Cooking, Hyatt, O’Hare International Airport, Road Warriors, Siri, Thanksgiving, Vaccination, travel stories, travel tips, travel podcast</itunes:keywords>
-            <itunes:duration>25:35</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>170</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
