@@ -4,13 +4,13 @@
         <title>TravelCommons</title>
         <link>http://travelcommons.com</link>
         <description>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</description>
-        <copyright>&#xA9; 2021 The Peacock Group LLC</copyright>
+        <copyright>&#xA9; 2022 The Peacock Group LLC</copyright>
         <managingEditor>mpeacock@travelcommons.com (Mark Peacock)</managingEditor>
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Fri, 10 Dec 2021 10:06:01 -0600</pubDate>
-        <lastBuildDate>Fri, 10 Dec 2021 10:06:01 -0600</lastBuildDate>
+        <pubDate>Sun, 16 Jan 2022 22:06:01 -0600</pubDate>
+        <lastBuildDate>Sun, 16 Jan 2022 22:06:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>COVID Test Anxiety; Michelin Dining Adventures</title>
+            <description><![CDATA[No travel since the last episode, but lots of travel planning. Are we making our way back to pre-COVID travel planning patterns? Omicron has lots of people worried about testing positive and getting stuck abroad. Michael Giusti of InsuranceQuotes.com talks about how travel insurance can help. A blogger’s brutal review of a Michelin-starred restaurant where we ate in October gets me thinking about food as an adventure.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/01/16/podcast-183-covid-test-anxiety-michelin-food-adventures/">here</a>]]></description>
+            <link>http://travelcommons.com/2022/01/16/podcast-183-covid-test-anxiety-michelin-food-adventures/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_183.mp3" length="18489871" type="audio/mpeg"/>
+            <guid isPermaLink="false">713d847a-c5be-4505-ab72-d6e24d7397ec</guid>
+            <pubDate>Sun, 16 Jan 2022 22:06:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure </itunes:subtitle>
+            <itunes:summary>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure </itunes:summary>
+            <itunes:keywords>	COVID test, Frequent Flyer Status, Michelin stars, Real ID, restaurants, Test Anxiety, Travel Insurance, travel planning, travel podcast, travel stories, travel tips, USB-C, travel podcast</itunes:keywords>
+            <itunes:duration>25:17</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>183</itunes:episode>
+        </item>
         <item>
             <title>Yet More COVID Changes; Words That Mean Adventure</title>
             <description><![CDATA[Back in front of the microphone after a two-week trip to the UK, getting back home just before the new Omicron travel restrictions hit. We talk about getting to London, surfing the waves of changing travel requirements, a new way to renew Global Entry, moan a bit more about the inexorable advance of the cashless society, and finish up talking with Josh Glenn about his new book <i>The Adventurer’s Glossary</i>. <br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/12/10/podcast-182-more-covid-changes-words-that-mean-adventure/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>172</itunes:episode>
-        </item>
-        <item>
-            <title>Data Privacy and Rental Cars; 2021 Travel Planning Tips</title>
-            <description><![CDATA[Was all set to head to San Diego for a week’s break from Chicago’s grey January and then looked at the COVID restrictions… and then pivoted to Arizona. With people starting to think about 2021 travel, I pulled together my top 5 travel planning tips. Slow vaccine roll-out will probably keep us restricted for longer than we thought. Andrea Amico of Privacy4Cars joins us to talk about the dangers of leaving our data behind in rental cars.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/01/14/podcast-171-data-privacy-and-rental-cars-2021-travel-planning-tips/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/01/14/podcast-171-data-privacy-and-rental-cars-2021-travel-planning-tips/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_171.mp3" length="20115919" type="audio/mpeg"/>
-            <guid isPermaLink="false">9a60b284-5965-431c-b095-9de75c5d41fa</guid>
-            <pubDate>Thu, 14 Jan 2021 18:07:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Pivot from San Diego to Tucson for COVID restrictions; planning tips for travel during COVID; CEO of Privacy4Cars talks about leaving data behind in rental cars</itunes:subtitle>
-            <itunes:summary>Pivot from San Diego to Tucson for COVID restrictions; planning tips for travel during COVID; CEO of Privacy4Cars talks about leaving data behind in rental cars</itunes:summary>
-            <itunes:keywords>Arizona, Bluetooth, California, car rental, Covid, Data Privacy, Digital Vaccine Passports, Fake Vaccination, Hertz, Python, travel planning, travel tips, travel stories, Untappd, Vaccination</itunes:keywords>
-            <itunes:duration>27:33</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>171</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
