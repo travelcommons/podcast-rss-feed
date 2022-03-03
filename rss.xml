@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sun, 16 Jan 2022 22:06:01 -0600</pubDate>
-        <lastBuildDate>Sun, 16 Jan 2022 22:06:01 -0600</lastBuildDate>
+        <pubDate>Thu, 3 Mar 2022 11:06:01 -0600</pubDate>
+        <lastBuildDate>Thu, 3 Mar 2022 11:06:01 -0600</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -31,6 +31,24 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Figuring Out Stealth Travel Inflation</title>
+            <description><![CDATA[In the travel world, what goes up -- rules, fees, prices -- often stays up. It's the ratchet effect and it's a theme running through this episode. Inflation is on everyone's mind, and so we dig into travel inflation, comparing today's prices with pre-pandemic levels.  We also talk about US passport renewals ahead of the summer vacation season, and some good Cuban food in Louisville and a questionable food trend in London.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/">here</a>]]></description>
+            <link>http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_184.mp3" length="17078188 " type="audio/mpeg"/>
+            <guid isPermaLink="false">baf6a462-88bb-464e-80f6-0022fbb532b9</guid>
+            <pubDate>Thu, 3 Mar 2022 11:06:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Analyzing travel inflation and ratcheting add-on fees; changing COVID test rules; renewing US passports; Louisville Cuban restaurant; COVID catches up to me</itunes:subtitle>
+            <itunes:summary>Analyzing travel inflation and ratcheting add-on fees; changing COVID test rules; renewing US passports; Louisville Cuban restaurant; COVID catches up to me</itunes:summary>
+            <itunes:keywords>Add-On Fees, Baggage Fees, COVID test, COVID travel rules, inflation, Louisville, restaurants, Southwest Airlines, Travel Price Index, travel stories, travel tips, US Passport Renewal, travel podcast</itunes:keywords>
+            <itunes:duration>23:20</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:episode>184</itunes:episode>
+        </item>
+        <item>
             <title>COVID Test Anxiety; Michelin Dining Adventures</title>
             <description><![CDATA[No travel since the last episode, but lots of travel planning. Are we making our way back to pre-COVID travel planning patterns? Omicron has lots of people worried about testing positive and getting stuck abroad. Michael Giusti of InsuranceQuotes.com talks about how travel insurance can help. A blogger’s brutal review of a Michelin-starred restaurant where we ate in October gets me thinking about food as an adventure.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/01/16/podcast-183-covid-test-anxiety-michelin-food-adventures/">here</a>]]></description>
             <link>http://travelcommons.com/2022/01/16/podcast-183-covid-test-anxiety-michelin-food-adventures/</link>
@@ -40,9 +58,9 @@
             <guid isPermaLink="false">713d847a-c5be-4505-ab72-d6e24d7397ec</guid>
             <pubDate>Sun, 16 Jan 2022 22:06:01 -0600</pubDate>
             <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure </itunes:subtitle>
-            <itunes:summary>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure </itunes:summary>
-            <itunes:keywords>	COVID test, Frequent Flyer Status, Michelin stars, Real ID, restaurants, Test Anxiety, Travel Insurance, travel planning, travel podcast, travel stories, travel tips, USB-C, travel podcast</itunes:keywords>
+            <itunes:subtitle>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure</itunes:subtitle>
+            <itunes:summary>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure</itunes:summary>
+            <itunes:keywords>COVID test, Frequent Flyer Status, Michelin stars, Real ID, restaurants, Test Anxiety, Travel Insurance, travel planning, travel podcast, travel stories, travel tips, USB-C, travel podcast</itunes:keywords>
             <itunes:duration>25:17</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>173</itunes:episode>
-        </item>
-        <item>
-            <title>Timeshares Without the Pitch; Notes on Tucson</title>
-            <description><![CDATA[Escaped the Chicago winter for a week of hiking in the mountains around Tucson and searching for good Sonoran food. We also talk with Mike Kennedy, CEO and Co-Founder of Koala about how he’s making it easy to rent timeshares without buying into them. Also, how travel planning got hot but then cooled back down, and trying to extend the life of my Avios points<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/02/16/podcast-172-timeshares-without-the-pitch-notes-on-tucson/">here</a> and my Tucson trip blog post <a href="http://travelcommons.com/2021/02/01/quick-notes-on-our-trip-to-tucson/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/02/16/podcast-172-timeshares-without-the-pitch-notes-on-tucson/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_172.mp3" length="20652530" type="audio/mpeg"/>
-            <guid isPermaLink="false">275c0ff1-7dfd-473a-a26b-fdd2d1bc71d8</guid>
-            <pubDate>Tue, 16 Feb 2021 20:14:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Escaped Chicago winter for a week of hiking and eating in Tucson; CEO of Koala talks about renting timeshares; travel planning gets hot and then cools back down; trying to extend the life of my Avios points</itunes:subtitle>
-            <itunes:summary>Escaped Chicago winter for a week of hiking and eating in Tucson; CEO of Koala talks about renting timeshares; travel planning gets hot and then cools back down; trying to extend the life of my Avios points</itunes:summary>
-            <itunes:keywords>Arizona, Avios, British Airways, Centurion Lounge, Covid, frequent flier programs, Iberia Airlines, O’Hare, Sonoran Food, Southwest Airlines, Timeshare Rentals, Tucson, travel planning, travel tips, travel stories</itunes:keywords>
-            <itunes:duration>28:17</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>172</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
