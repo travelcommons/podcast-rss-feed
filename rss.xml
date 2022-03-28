@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 3 Mar 2022 11:06:01 -0600</pubDate>
-        <lastBuildDate>Thu, 3 Mar 2022 11:06:01 -0600</lastBuildDate>
+        <pubDate>Mon, 28 Mar 2022 16:48:01 -0500</pubDate>
+        <lastBuildDate>Mon, 28 Mar 2022 16:48:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -31,12 +31,30 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <item>
+          <title>Notes on Louisville; Changing Mask Mandates</title>
+          <description><![CDATA[As the great American philosopher Ferris Bueller once said, “Life moves pretty fast” and in this episode, we talk about the rapid changes in hotel service, and in-flight mask mandates. Then I go into detail about our recent trip to Louisville, complete with recommendations for food and drink<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_185.mp3" length="14352877" type="audio/mpeg"/>
+          <guid isPermaLink="false">5d5f02cf-c8b9-4e7c-b614-28a76bd50e71</guid>
+          <pubDate>Mon, 28 Mar 2022 16:48:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>The American philosopher Ferris Bueller said, “Life moves pretty fast” In this episode, we talk about rapid changes in hotel service and in-flight mask mandates. Then a trip report and recommendations from our trip to Louisville.</itunes:subtitle>
+          <itunes:summary>The American philosopher Ferris Bueller said, “Life moves pretty fast” In this episode, we talk about rapid changes in hotel service and in-flight mask mandates. Then a trip report and recommendations from our trip to Louisville.</itunes:summary>
+          <itunes:keywords>American Express, Bourbon, Brooklyn, Centurion Lounge, COVID travel rules, In-Flight Masks, Louisville, New York City, Plane Mask, Southwest Airlines, travel stories, travel tips, travel podcast</itunes:keywords>
+          <itunes:duration>19:32</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:episode>185</itunes:episode>
+      </item>
+      <item>
             <title>Figuring Out Stealth Travel Inflation</title>
             <description><![CDATA[In the travel world, what goes up -- rules, fees, prices -- often stays up. It's the ratchet effect and it's a theme running through this episode. Inflation is on everyone's mind, and so we dig into travel inflation, comparing today's prices with pre-pandemic levels.  We also talk about US passport renewals ahead of the summer vacation season, and some good Cuban food in Louisville and a questionable food trend in London.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/">here</a>]]></description>
             <link>http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/</link>
             <author>mpeacock@travelcommons.com (Mark Peacock)</author>
             <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_184.mp3" length="17078188 " type="audio/mpeg"/>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_184.mp3" length="17078188" type="audio/mpeg"/>
             <guid isPermaLink="false">baf6a462-88bb-464e-80f6-0022fbb532b9</guid>
             <pubDate>Thu, 3 Mar 2022 11:06:01 -0600</pubDate>
             <itunes:author>Mark Peacock</itunes:author>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>174</itunes:episode>
-        </item>
-        <item>
-            <title>What's New in Travel Insurance; Keeping Ahead of Expiring Miles</title>
-            <description><![CDATA[As travel bookings beginning to rise with vaccination rates, we talk with Michael Giusti of InsuranceQuotes.com to find out what's changed over the last year. I make the rounds through all my frequent traveler programs to reset impending expiration dates. We also talk about yet another travel data breach, a favorite beer bar is a COVID casualty, and bankrupt Hertz is starting to let its cars get old.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/03/12/podcast-173-whats-new-in-travel-insurance-keeping-ahead-of-expiring-miles/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/03/12/podcast-173-whats-new-in-travel-insurance-keeping-ahead-of-expiring-miles/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_173.mp3" length="21032884" type="audio/mpeg"/>
-            <guid isPermaLink="false">92f7302a-7bf7-49dd-94c7-d0620a46056a</guid>
-            <pubDate>Fri, 12 Mar 2021 15:01:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>What's new in travel insurance; resetting expiration dates on all my frequent traveler programs; another travel data breach; bankrupt Hertz letting cars get old</itunes:subtitle>
-            <itunes:summary>What's new in travel insurance; resetting expiration dates on all my frequent traveler programs; another travel data breach; bankrupt Hertz letting cars get old</itunes:summary>
-            <itunes:keywords>Air France-KLM, Avios, British Airways, Covid-19, Craft Beer, Data Security, Expiring Points, frequent flier programs, Hertz, Iberia Airlines, Plane Mask, Travel Insurance, TripIt, travel planning, travel tips, travel stories</itunes:keywords>
-            <itunes:duration>28:49</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>173</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
