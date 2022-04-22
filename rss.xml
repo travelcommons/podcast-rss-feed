@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Mon, 28 Mar 2022 16:48:01 -0500</pubDate>
-        <lastBuildDate>Mon, 28 Mar 2022 16:48:01 -0500</lastBuildDate>
+        <pubDate>Thu, 21 Apr 2022 21:26:01 -0500</pubDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:26:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+          <title>Mask Mandate Scramble; Small Airport Survival</title>
+          <description><![CDATA[We recap the bouncing ball history of the in-flight mask mandate as we try to figure out where it's going land now that it's in the courts. But before that, I recap my trip to Santa Fe, NM, take the flight tracking app Flighty for a spin, and wonder why CLEAR keeps giving away annual subscriptions. Then we dig into the current state of regional airports with Joanne Magley, of Daytona Beach International Airport<br><p>Check out this episode's show notes<a href="http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_186.mp3" length="17666385" type="audio/mpeg"/>
+          <guid isPermaLink="false">8fbabce9-7b61-490e-95a5-d9caeedc01df</guid>
+          <pubDate>Thu, 21 Apr 2022 21:26:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Following the bouncing ball of on-flight mask mandates, my trip to Santa Fe, NM, reviewing flight tracking app Flighty, and Daytona Beach International Airport.</itunes:subtitle>
+          <itunes:summary>Following the bouncing ball of on-flight mask mandates, my trip to Santa Fe, NM, reviewing flight tracking app Flighty, and Daytona Beach International Airport.</itunes:summary>
+          <itunes:keywords>Airports, CDC, Clear, CLEAR registered traveler, Daytona Beach, Florida, In-Flight Masks, Masks, Regional Jets, Santa Fe, Small Airports, Southwest Airlines, Travel Apps, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
+          <itunes:duration>24:08</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:episode>186</itunes:episode>
+      </item>
         <item>
           <title>Notes on Louisville; Changing Mask Mandates</title>
           <description><![CDATA[As the great American philosopher Ferris Bueller once said, “Life moves pretty fast” and in this episode, we talk about the rapid changes in hotel service, and in-flight mask mandates. Then I go into detail about our recent trip to Louisville, complete with recommendations for food and drink<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>175</itunes:episode>
-        </item>
-        <item>
-            <title>How the Pros Plan Their Taproom Tourism</title>
-            <description><![CDATA[Looking at the <i>Beer</i> section of this new website design, I saw I needed more content. So I got hold of Rob Cheshire of the <i><a href="https://thisweekincraft.beer/">This Week in Craft Beer</a></i> podcast to talk about our approaches to taproom tourism and to trade taproom travel stories. I also talk about mask hassles on a couple of recent flights, Hertz's continuing downward service spiral, and Uber and Lyft driver shortages.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/04/10/podcast-174-how-the-pros-plan-their-taproom-tourism/">here</a> and the uncut video of Rob's and my beer chat <a href="http://travelcommons.com/2021/03/28/podcast-174-uncut-taproom-tourism/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/04/10/podcast-174-how-the-pros-plan-their-taproom-tourism/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_174.mp3" length="19497565" type="audio/mpeg"/>
-            <guid isPermaLink="false">ddc90fd6-c75b-447f-8c88-1682759ac7e5</guid>
-            <pubDate>Sat, 10 Apr 2021 13:30:01 -0500</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Why and how we search out craft beer taprooms, and telling some taproom travel stories; Also mask hassles on my last couple of flights, Hertz continues to circle the drain; Uber and Lyft splashing cash to bring back drivers</itunes:subtitle>
-            <itunes:summary>Why and how we search out craft beer taprooms, and telling some taproom travel stories; Also mask hassles on my last couple of flights, Hertz continues to circle the drain; Uber and Lyft splashing cash to bring back drivers</itunes:summary>
-            <itunes:keywords>Avios, Beer Tourism, British Airways, Craft Beer, Hertz, Lyft, Ocean Beach, Plane Mask, Ride Sharing, San Diego, Taprooms, Travel Insurance, travel planning, travel stories, Uber, Untappd, travel tips, business travel</itunes:keywords>
-            <itunes:duration>26:41</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>174</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
