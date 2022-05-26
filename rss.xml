@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 21 Apr 2022 21:26:01 -0500</pubDate>
-        <lastBuildDate>Thu, 21 Apr 2022 21:26:01 -0500</lastBuildDate>
+        <pubDate>Thu, 26 May 2022 14:58:01 -0500</pubDate>
+        <lastBuildDate>Thu, 26 May 2022 14:58:01 -0500</lastBuildDate>
         <image>
             <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
             <title>TravelCommons</title>
@@ -30,6 +30,24 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+          <title>Moving to a Non-Hub Airport; What Makes A Great Taproom?</title>
+          <description><![CDATA[The last episode recording in Chicago before we relocate the TravelCommons studios, and our lives, down to Nashville. We close out our threads on in-flight mask mandates and hotel housekeeping, and critique an academic paper about the moral hazard of frequent flier elite status. I talk through the changes I’ll have to make when flying out of a non-hub airport. And then, as I’m making a list of the Chicago breweries I want to re-visit before leaving, I think through the characteristics that makes a taproom great.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_187.mp3" length="20492648" type="audio/mpeg"/>
+          <guid isPermaLink="false">da4cb57a-08d9-4af5-ad28-556aedb42eef</guid>
+          <pubDate>Thu, 26 May 2022 14:58:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>In-flight mask mandates; hotel housekeeping; moral hazard of frequent flier status; changes flying out of a non-hub airport; characteristics of a great taproom</itunes:subtitle>
+          <itunes:summary>In-flight mask mandates; hotel housekeeping; moral hazard of frequent flier status; changes flying out of a non-hub airport; characteristics of a great taproom</itunes:summary>
+          <itunes:keywords>CDC, Chicago, Craft Beer, frequent flier programs, Frequent Flyer Status, hotel housekeeping, In-Flight Masks, Nashville, passenger volumes, Real ID, Taproom, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
+          <itunes:duration>28:04</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:episode>187</itunes:episode>
+      </item>
         <item>
           <title>Mask Mandate Scramble; Small Airport Survival</title>
           <description><![CDATA[We recap the bouncing ball history of the in-flight mask mandate as we try to figure out where it's going land now that it's in the courts. But before that, I recap my trip to Santa Fe, NM, take the flight tracking app Flighty for a spin, and wonder why CLEAR keeps giving away annual subscriptions. Then we dig into the current state of regional airports with Joanne Magley, of Daytona Beach International Airport<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/">here</a>]]></description>
@@ -227,24 +245,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>176</itunes:episode>
-        </item>
-        <item>
-            <title>How to Find Local Tour Guides; Rebuild Travel Muscles</title>
-            <description><![CDATA[I can feel travel beginning to come back. TSA checkpoint volumes are hitting post-pandemic highs, business travelers are starting to come out from behind their Zoom sessions, and vaccination rates are prompting more people to make travel plans. So on this episode, we first talk to Paul Melhus, CEO of ToursByLocals about the state of the local tour market and then about how frequent travelers are starting to stretch their atrophied travel muscles.<br>Check out this episode's show notes <a href="http://travelcommons.com/2021/05/09/podcast-175-how-to-find-local-tour-guides-rebuild-travel-muscles/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/05/09/podcast-175-how-to-find-local-tour-guides-rebuild-travel-muscles/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_175.mp3" length="19252887" type="audio/mpeg"/>
-            <guid isPermaLink="false">738271c2-9c50-421b-8d83-4f4858f1e833</guid>
-            <pubDate>Sun, 9 May 2021 19:10:01 -0500</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Feeling travel coming back, we talk to CEO of ToursByLocals about the local tour market and then how frequent travelers are working on atrophied travel muscles.</itunes:subtitle>
-            <itunes:summary>Feeling travel coming back, we talk to CEO of ToursByLocals about the local tour market and then how frequent travelers are working on atrophied travel muscles.</itunes:summary>
-            <itunes:keywords>business travel, Chase Sapphire Visa, COVID, Frequent Traveler, Guided Tours, Hertz, PreCheck, Real ID, Ride Sharing, Travel Insurance, travel podcast, travel stories, travel tips, Uber</itunes:keywords>
-            <itunes:duration>26:21</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>175</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
