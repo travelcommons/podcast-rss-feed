@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
     <channel>
         <title>TravelCommons</title>
         <link>http://travelcommons.com</link>
@@ -17,6 +17,7 @@
             <link>http://travelcommons.com</link>
         </image>
         <itunes:author>Mark Peacock</itunes:author>
+        <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
         <itunes:summary>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</itunes:summary>
         <itunes:keywords>travel, travel podcast, business travel, travel stories, travel industry, travel tips, road warrior</itunes:keywords>
         <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg"/>
@@ -48,6 +49,7 @@
           <itunes:explicit>no</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/08/IMG_4140.jpg"/>
           <itunes:episode>188</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1560641071926886401" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
       </item>
         <item>
           <title>Moving to a Non-Hub Airport; What Makes A Great Taproom?</title>
