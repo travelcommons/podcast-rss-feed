@@ -12,14 +12,14 @@
         <pubDate>Thu, 18 Aug 2022 20:21:01 -0500</pubDate>
         <lastBuildDate>Thu, 18 Aug 2022 20:21:01 -0500</lastBuildDate>
         <image>
-            <url>http://travelcommons.com/podcast/travelcommons_logo.jpg</url>
+            <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
             <link>http://travelcommons.com</link>
         </image>
         <itunes:author>Mark Peacock</itunes:author>
         <itunes:summary>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</itunes:summary>
         <itunes:keywords>travel, travel podcast, business travel, travel stories, travel industry, travel tips, road warrior</itunes:keywords>
-        <itunes:image href="http://travelcommons.com/podcast/travelcommons_logo.jpg"/>
+        <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:owner>
             <itunes:name>Mark Peacock</itunes:name>
@@ -46,6 +46,7 @@
           <itunes:duration>23:56</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/08/IMG_4140.jpg"/>
           <itunes:episode>188</itunes:episode>
       </item>
         <item>
@@ -64,6 +65,7 @@
           <itunes:duration>28:04</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/05/IMG_4803.jpg"/>
           <itunes:episode>187</itunes:episode>
       </item>
         <item>
@@ -82,6 +84,7 @@
           <itunes:duration>24:08</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/04/IMG_0161.jpg"/>
           <itunes:episode>186</itunes:episode>
       </item>
         <item>
@@ -311,6 +314,7 @@
             <itunes:subtitle>Taste of TravelCommons</itunes:subtitle>
 	          <itunes:summary>A Taste of TravelCommons - Travel rants and travel stories recorded in hotel bathrooms around the country</itunes:summary>
             <itunes:duration>2:30</itunes:duration>
+            <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>travel, promo, stories</itunes:keywords>
             <itunes:episodeType>trailer</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
