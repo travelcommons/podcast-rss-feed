@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 18 Aug 2022 20:21:01 -0500</pubDate>
-        <lastBuildDate>Thu, 18 Aug 2022 20:21:01 -0500</lastBuildDate>
+        <pubDate>Thu, 22 Sep 2022 18:47:01 -0500</pubDate>
+        <lastBuildDate>Thu, 22 Sep 2022 18:47:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -31,6 +31,29 @@
             <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:type>episodic</itunes:type>
+        <item>
+          <title>Why We Travel; When The First Flight Isn’t Best</title>
+          <description><![CDATA[Lots of different voices in this episode. Listeners growing our list of travel tips, and conversations with Dr. Sheldon Jacobson about why one of those tips — always catch the first flight out — isn’t always right, and Patricia Schultz about her new book, <i>Why We Travel: 100 Reasons to See the World</i>.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/09/22/podcast-189-why-we-travel-when-the-first-flight-isnt-best/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/09/22/podcast-189-why-we-travel-when-the-first-flight-isnt-best/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_189.mp3" length="23170644" type="audio/mpeg"/>
+          <guid isPermaLink="false">a87e86c3-9cef-4f57-b28e-1dad8242fa31</guid>
+          <pubDate>Thu, 22 Sep 2022 18:47:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Lots of different voices - listeners adding to our list of travel tips, Dr. Sheldon Jacobson on why one of our tips isn't always right, and Patricia Schultz on her new book "Why We Travel"</itunes:subtitle>
+          <itunes:summary>Lots of different voices - listeners adding to our list of travel tips, Dr. Sheldon Jacobson on why one of our tips isn't always right, and Patricia Schultz on her new book "Why We Travel"</itunes:summary>
+          <itunes:keywords>eSIM, Flight Times, iPhone, Prepaid mobile data, SIMs, Small Airports, travel planning, travel podcast, travel stories, travel tips, TSA, Why We Travel</itunes:keywords>
+          <itunes:duration>31:48</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/09/IMG_5006.jpg"/>
+          <itunes:episode>189</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1573101185883594752" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="http://shj.cs.illinois.edu/SHJ_WWW.jpg" href="http://shj.cs.illinois.edu/">Dr. Sheldon Jacobson</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://d1bh17hrbsh0lf.cloudfront.net/contributor/251539594/headshot/conversions/patricia-schultz-thumb.jpg" href="https://www.workman.com/authors/patricia-schultz">Patricia Schultz</podcast:person>
+        </item>
         <item>
           <title>My Top 13 Tips to Survive Travel Chaos</title>
           <description><![CDATA[Back behind the microphone after a couple of months of setting up the new studios in Nashville. I've been dishing out travel advice to friends and family swept up in this summer's travel chaos. I've distilled all those texts and messages down to my top 13 travel tips to help those traveling through the rest of the year. We also talk about the countries that have dropped all of the COVID testing requirements for inbound passengers, noodle about the rationale for JetBlue's dogged pursuit of Spirit Airways, Delta's new time limits for their Sky Club lounges, and why frequent flier award travel is suddenly a bargain again.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/08/18/podcast-188-my-top-tips-to-survive-travel-chaos/">here</a>]]></description>
@@ -232,24 +255,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>178</itunes:episode>
-        </item>
-        <item>
-            <title>B-Sides and Rarities</title>
-            <description><![CDATA[After a 2-week, 2,500-mile driving expedition through the Northeast, there wasn't much time to write a new episode. So, I mined recent interviews for stories that got left on the cutting room floor. Also talk about COVID planning for a fall trip to Italy and mourn the demise of American Airlines’ in-flight magazine.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/07/28/podcast-177-b-sides-and-rarities/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/07/28/podcast-177-b-sides-and-rarities/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_177.mp3" length="24026266" type="audio/mpeg"/>
-            <guid isPermaLink="false">9d434ebf-bb11-442a-84bf-135db5af8251</guid>
-            <pubDate>Wed, 28 Jul 2021 09:40:01 -0500</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Driving thru the Northeast; tracking COVID requirements for a fall Italy trip; updates to traveler gift guide; death of in-flight magazines; interview outtakes</itunes:subtitle>
-            <itunes:summary>Driving thru the Northeast; tracking COVID requirements for a fall Italy trip; updates to traveler gift guide; death of in-flight magazines; interview outtakes</itunes:summary>
-            <itunes:keywords>COVID test, COVID travel rules, dining, Driving, Gift Guide, In-Flight Entertainment, Italy, Maine, travel stories, TSA, travel tips, travel podcast, frequent traveler</itunes:keywords>
-            <itunes:duration>32:58</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>177</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
