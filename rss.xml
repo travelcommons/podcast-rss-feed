@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Mon, 31 Oct 2022 12:47:01 -0500</pubDate>
-        <lastBuildDate>Mon, 31 Oct 2022 12:47:01 -0500</lastBuildDate>
+        <pubDate>Mon, 31 Oct 2022 16:27:01 -0500</pubDate>
+        <lastBuildDate>Mon, 31 Oct 2022 16:27:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -33,23 +33,23 @@
         <itunes:type>episodic</itunes:type>
         <item>
           <title>My Travel Tech Stack; Imbibing for Introverts</title>
-          <description><![CDATA[Lots of different voices in this episode. Listeners growing our list of travel tips, and conversations with Dr. Sheldon Jacobson about why one of those tips — always catch the first flight out — isn’t always right, and Patricia Schultz about her new book, <i>Why We Travel: 100 Reasons to See the World</i>.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/09/22/podcast-189-why-we-travel-when-the-first-flight-isnt-best/">here</a>]]></description>
-          <link></link>
+          <description><![CDATA[Back behind the mic after 3 week of travel in Croatia and Italy. The trip went amazingly well up to the last leg, when United's Newark team couldn't get our bags on our plane. But, I'd stuffed Apple AirTags into our luggage, so we were able to track their movements 'til they got home. That experience and a listener's tweet led to me re-visiting my travel tech stack. We then talk to Jeff Cioletti, author of the new book <i>Imbibing for Introverts</i>, about the art of drinking alone.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/10/31/podcast-190-my-travel-tech-stack-imbibing-for-introverts/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/10/31/podcast-190-my-travel-tech-stack-imbibing-for-introverts/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_190.mp3" length="xxx" type="audio/mpeg"/>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_190.mp3" length="20714577" type="audio/mpeg"/>
           <guid isPermaLink="false">35db95c3-1af6-452f-9462-270527a12a73</guid>
-          <pubDate>Mon, 31 Oct 2022 12:47:01 -0500</pubDate>
+          <pubDate>Mon, 31 Oct 2022 16:27:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
-          <itunes:subtitle></itunes:subtitle>
-          <itunes:summary></itunes:summary>
-          <itunes:keywords>travel planning, travel podcast, travel stories</itunes:keywords>
-          <itunes:duration></itunes:duration>
+          <itunes:subtitle>Tracking lost luggage with AirTags; what's changed in my travel tech stack; talking with Jeff Cioletti, author of the new book "Imbibing for Introverts", about the art of drinking alone</itunes:subtitle>
+          <itunes:summary>Tracking lost luggage with AirTags; what's changed in my travel tech stack; talking with Jeff Cioletti, author of the new book "Imbibing for Introverts", about the art of drinking alone</itunes:summary>
+          <itunes:keywords>AirTag, Author Interview, Drinking Alone, eSIM, Italy, lost luggage, Prepaid mobile data, Travel Apps, travel podcast, travel stories, Travel Technology, travel tips, travel planning</itunes:keywords>
+          <itunes:duration>28:22</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:explicit>no</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/10/malort_face.jpg"/>
           <itunes:episode>190</itunes:episode>
-          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1573101185883594752" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1587202096591413248" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
           <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
           <podcast:person role="guest" group="cast" img="https://daily.sevenfifty.com/app/uploads/2017/07/Ciolettiheadshot2-copy-1472x1472.jpg" href="https://www.linkedin.com/in/jeff-cioletti-193941">Jeff Cioletti</podcast:person>
         </item>
