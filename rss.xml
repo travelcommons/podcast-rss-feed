@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Mon, 31 Oct 2022 16:27:01 -0500</pubDate>
-        <lastBuildDate>Mon, 31 Oct 2022 16:27:01 -0500</lastBuildDate>
+        <pubDate>Sat, 24 Dec 2022 22:33:01 -0500</pubDate>
+        <lastBuildDate>Sat, 24 Dec 2022 22:33:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>My Notes on Italy and Split, Croatia</title>
+          <description><![CDATA[Hard up against the Christmas deadline, we compare long-distance drive times between gas and electric cars, and my travel tips vs. those from the ChatGPT AI chatbot. We talk about the latest Real ID deadline delay, and impressions from my trip to Positano, Rome, Florence, and Split, Croatia.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/12/24/podcast-191-my-notes-on-italy-and-split-croatia/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/12/24/podcast-191-my-notes-on-italy-and-split-croatia/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_191.mp3" length="18207694" type="audio/mpeg"/>
+          <guid isPermaLink="false">aa9f0157-9ec6-4eef-83fe-03e0a9cd14a1</guid>
+          <pubDate>Sat, 24 Dec 2022 22:33:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Comparing long-distance drive times between gas and electric cars, and ChatGPT's travel tips with mine; Talking about another Real ID delay, and my travel notes from Positano, Rome, and Split, Croatia.</itunes:subtitle>
+          <itunes:summary>Comparing long-distance drive times between gas and electric cars, and ChatGPT's travel tips with mine; Talking about another Real ID delay, and my travel notes from Positano, Rome, and Split, Croatia.</itunes:summary>
+          <itunes:keywords>ChatGPT, Croatia, Crowds, Italy, Real ID, Soccer, travel, travel podcast, travel stories, travel tips, TripIt, US Passport Renewal</itunes:keywords>
+          <itunes:duration>24:54</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/12/AA263071-7820-499A-BBF9-DAB2E122A703-1.jpg"/>
+          <itunes:episode>191</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1606874868632485889" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
         <item>
           <title>My Travel Tech Stack; Imbibing for Introverts</title>
           <description><![CDATA[Back behind the mic after 3 week of travel in Croatia and Italy. The trip went amazingly well up to the last leg, when United's Newark team couldn't get our bags on our plane. But, I'd stuffed Apple AirTags into our luggage, so we were able to track their movements 'til they got home. That experience and a listener's tweet led to me re-visiting my travel tech stack. We then talk to Jeff Cioletti, author of the new book <i>Imbibing for Introverts</i>, about the art of drinking alone.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/10/31/podcast-190-my-travel-tech-stack-imbibing-for-introverts/">here</a>]]></description>
@@ -242,24 +262,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>180</itunes:episode>
-        </item>
-        <item>
-            <title>High-Tech Airport Lines; Business Travel Still Missing</title>
-            <description><![CDATA[Not much travel, but a lot of travel planning for our first post-lockdown international trip to Italy. Trying to thread our way through changing COVID rules and Alitalia’s bankruptcy throes. I’m getting inundated with discount offers for Clear’s fast-pass service. I’ve resisted them so far, because I remember back to when the first incarnation of Clear wanted to sell its members’ biometric data. We then talk to Xovis Technology‘s Cody Shulman about how airports are better managing all sorts of lines in airports. Finally, air passenger traffic is dropping again because business travelers are still MIA.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/09/27/podcast-179-high-tech-airport-lines-business-travel-still-missing/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/09/27/podcast-179-high-tech-airport-lines-business-travel-still-missing/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_179.mp3" length="20571922" type="audio/mpeg"/>
-            <guid isPermaLink="false">adaeaa56-762f-4b10-b4f6-308b323cda72</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:01 -0500</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Planning our Italy trip around new COVID rules and Alitalia bankruptcy; airports managing lines with AI and high-tech sensors; business travelers still missing</itunes:subtitle>
-            <itunes:summary>Planning our Italy trip around new COVID rules and Alitalia bankruptcy; airports managing lines with AI and high-tech sensors; business travelers still missing</itunes:summary>
-            <itunes:keywords>Alitalia, business travel, CLEAR registered traveler, Global Entry, Italy, security lines, Southwest Airlines, travel planning, travel stories, travel tips, TSA, frequent traveler</itunes:keywords>
-            <itunes:duration>28:11</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>179</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
