@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Sat, 24 Dec 2022 22:33:01 -0500</pubDate>
-        <lastBuildDate>Sat, 24 Dec 2022 22:33:01 -0500</lastBuildDate>
+        <pubDate>Thu, 26 Jan 2023 18:52:01 -0500</pubDate>
+        <lastBuildDate>Thu, 26 Jan 2023 18:52:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,28 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>New Year Travel Planning Tips; Gin Conquers the World</title>
+          <description><![CDATA[With COVID travel restrictions gone, I expect people to revert back to their old ways where January is the biggest travel planning month. I wade into the debate between booking direct with travel providers vs. booking with agents and 3rd-party sites. I see how well my travel tips did during the Southwest cancellation chaos, and then pull out a little more of my conversation with Jeff Cioletti, author of the new book Imbibing for Introverts; this time about how gin is going global with a local twist.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/01/26/podcast-192-new-year-travel-planning-tips-gin-conquers-the-world/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/01/26/podcast-192-new-year-travel-planning-tips-gin-conquers-the-world/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_192.mp3" length="17267933" type="audio/mpeg"/>
+          <guid isPermaLink="false">dbf10bc9-17c8-4f26-a509-61c70624e1c8</guid>
+          <pubDate>Thu, 26 Jan 2023 18:52:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Are people going back to their old travel planning ways? Should you book direct with travel providers or use a 3rd-party? Unpacking Southwest's cancellation chaos. Gin goes global with a local twist.</itunes:subtitle>
+          <itunes:summary>Are people going back to their old travel planning ways? Should you book direct with travel providers or use a 3rd-party? Unpacking Southwest's cancellation chaos. Gin goes global with a local twist.</itunes:summary>
+          <itunes:keywords>Author Interview, Croatia, ETIAS, flight cancellations, Gin, Gin Tonic, Southwest Airlines, travel planning, travel podcast, travel stories, travel tips, travel</itunes:keywords>
+          <itunes:duration>23:35</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/01/DALL%C2%B7E-2023-01-25-22.53.11-e1674709008862-300x300.png"/>
+          <itunes:episode>192</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1618769229800693761" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://daily.sevenfifty.com/app/uploads/2017/07/Ciolettiheadshot2-copy-1472x1472.jpg" href="https://www.linkedin.com/in/jeff-cioletti-193941">Jeff Cioletti</podcast:person>
+        </item>
         <item>
           <title>My Notes on Italy and Split, Croatia</title>
           <description><![CDATA[Hard up against the Christmas deadline, we compare long-distance drive times between gas and electric cars, and my travel tips vs. those from the ChatGPT AI chatbot. We talk about the latest Real ID deadline delay, and impressions from my trip to Positano, Rome, Florence, and Split, Croatia.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/12/24/podcast-191-my-notes-on-italy-and-split-croatia/">here</a>]]></description>
@@ -94,7 +116,6 @@
           <itunes:episode>189</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1573101185883594752" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
           <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
-          <podcast:person role="guest" group="cast" img="http://shj.cs.illinois.edu/SHJ_WWW.jpg" href="http://shj.cs.illinois.edu/">Dr. Sheldon Jacobson</podcast:person>
           <podcast:person role="guest" group="cast" img="https://d1bh17hrbsh0lf.cloudfront.net/contributor/251539594/headshot/conversions/patricia-schultz-thumb.jpg" href="https://www.workman.com/authors/patricia-schultz">Patricia Schultz</podcast:person>
         </item>
         <item>
@@ -244,24 +265,6 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:explicit>no</itunes:explicit>
             <itunes:episode>181</itunes:episode>
-        </item>
-        <item>
-            <title>Tracking COVID Travel Requirements; Cycling Thru Puglia</title>
-            <description><![CDATA[Back at the microphone after two weeks in Southern Italy. Lots of travel segments that could’ve gone wrong, but none of them did. We talk about what international travel is like in COVID times, about the challenge of keeping track and complying with the different COVID travel requirements that seem to be constantly changing, and then some thoughts about our bike tour through Puglia.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/10/28/podcast-180-tracking-covid-travel-requirements-cycling-thru-puglia/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_180.mp3" length="21159669" type="audio/mpeg"/>
-            <guid isPermaLink="false">c2a231ba-62a7-4162-be97-f8dd79108986</guid>
-            <pubDate>Thu, 28 Oct 2021 18:05:01 -0500</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>What international travel is like in COVID times; tracking different country and regional COVID travel requirements that keep changing; cycling tour thru Puglia</itunes:subtitle>
-            <itunes:summary>What international travel is like in COVID times; tracking different country and regional COVID travel requirements that keep changing; cycling tour thru Puglia</itunes:summary>
-            <itunes:keywords>Air France, Alitalia, bicycling Tour, business travel, Catania, COVID travel rules, Global Entry, Italy, Puglia, travel podcast, travel stories, travel tips, United Airlines, VPN, frequent traveler</itunes:keywords>
-            <itunes:duration>29:00</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episode>180</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
