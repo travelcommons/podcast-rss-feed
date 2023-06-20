@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Fri, 31 Mar 2023 19:23:01 -0500</pubDate>
-        <lastBuildDate>Fri, 31 Mar 2023 19:23:01 -0500</lastBuildDate>
+        <pubDate>Tue, 20 Jun 2023 15:25:01 -0500</pubDate>
+        <lastBuildDate>Tue, 20 Jun 2023 15:25:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>Best Laid Travel Plans; Roaming Entropy</title>
+          <description><![CDATA[Back behind the microphone after, despite my finely tuned travel plans, I had to resort to being stubbornly cranky to fix a ORD connection drama when coming home from a tulip-peeping trip in Holland. We also wander into the world of flâneuring, aimlessly walking around a city as a way to swerve overtourism. Listeners weigh in on Priority Pass lounge access and online passport renewal experiences, and I count all the apps I needed to go cashless in Holland.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/06/20/podcast-194-best-laid-travel-plans-roaming-entropy/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/06/20/podcast-194-best-laid-travel-plans-roaming-entropy/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_194.mp3" length="19460984" type="audio/mpeg"/>
+          <guid isPermaLink="false">b0c17f32-d988-48c7-9adb-820ebdfaf91a</guid>
+          <pubDate>Tue, 20 Jun 2023 15:25:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Stubbornness fixes a missed flight connection; travel plans; flâneuring to swerve overtourism; is Priority Pass worth it; need lots of phone apps to go cashless</itunes:subtitle>
+          <itunes:summary>Stubbornness fixes a missed flight connection; travel plans; flâneuring to swerve overtourism; is Priority Pass worth it; need lots of phone apps to go cashless</itunes:summary>
+          <itunes:keywords>business travel, Cashless, ChatGPT, customer service, flâneuring, Priority Pass, Travel Interruption, travel planning, travel stories, United Airlines, US Passport Renewal, Wandering</itunes:keywords>
+          <itunes:duration>26:38</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/06/replicate-prediction-57paxyjb7xj7hm5kqombv3ecdy.png?resize=300%2C300"/>
+          <itunes:episode>194</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1671258207229210624" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
         <item>
           <title>Making the Most of Miles; Nashville vs Nash-Vegas</title>
           <description><![CDATA[Doing a bit of winter travel, the bar tab from waiting out a weather delay got me rethinking the economics of airport lounge memberships. Doing yet more travel planning but with a focus on making the most of the points and miles we accumulated on credit cards during the pandemic. And after eight months in Nashville, I compare the two sides of the local music scene -- the Nash-Vegas honky tonks vs the smaller, eclectic off-Broadway scene.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/03/31/podcast-193-making-the-most-of-miles-nashville-vs-nash-vegas/">here</a>]]></description>
@@ -252,27 +272,6 @@
             <itunes:explicit>no</itunes:explicit>
             <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/01/IMG_3929.jpeg"/>
             <itunes:episode>183</itunes:episode>
-        </item>
-        <item>
-            <title>Yet More COVID Changes; Words That Mean Adventure</title>
-            <description><![CDATA[Back in front of the microphone after a two-week trip to the UK, getting back home just before the new Omicron travel restrictions hit. We talk about getting to London, surfing the waves of changing travel requirements, a new way to renew Global Entry, moan a bit more about the inexorable advance of the cashless society, and finish up talking with Josh Glenn about his new book <i>The Adventurer’s Glossary</i>. <br><p>Check out this episode's show notes <a href="http://travelcommons.com/2021/12/10/podcast-182-more-covid-changes-words-that-mean-adventure/">here</a>]]></description>
-            <link>http://travelcommons.com/2021/12/10/podcast-182-more-covid-changes-words-that-mean-adventure/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_182.mp3" length="20858101" type="audio/mpeg"/>
-            <guid isPermaLink="false">a027e60d-d24e-40ca-85cf-a23c3ff1e96f</guid>
-            <pubDate>Fri, 10 Dec 2021 10:06:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Traveling to the UK; dodging Omicron travel restrictions; tracking COVID rule changes; renewing Global Entry; interviewing author of The Adventurer’s Glossary</itunes:subtitle>
-            <itunes:summary>Traveling to the UK; dodging Omicron travel restrictions; tracking COVID rule changes; renewing Global Entry; interviewing author of The Adventurer’s Glossary</itunes:summary>
-            <itunes:keywords>Adventure, American Airlines, Author Interview, Cashless, COVID test, COVID travel rules, Digital Vaccine Passports, Global Entry, Glossary, Heathrow, Hertz, London, Rapid Antigen Test, Semiotics, travel stories, travel tips, travel podcast, UK</itunes:keywords>
-            <itunes:duration>28:34</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/JPEG-image.jpeg"/>
-            <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
-            <podcast:person role="guest" group="cast" img="https://www.semiovox.com/wp-content/uploads/2020/06/PORTRAIT2.layered-edit02.png" href="https://www.linkedin.com/in/joshglenn1/">Joshua Glenn</podcast:person>
-            <itunes:episode>182</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
