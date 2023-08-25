@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 20 Jun 2023 15:25:01 -0500</pubDate>
-        <lastBuildDate>Tue, 20 Jun 2023 15:25:01 -0500</lastBuildDate>
+        <pubDate>Thu, 24 Aug 2023 20:14:01 -0500</pubDate>
+        <lastBuildDate>Thu, 24 Aug 2023 20:14:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -21,7 +21,7 @@
         <itunes:summary>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</itunes:summary>
         <itunes:keywords>travel, travel podcast, business travel, travel stories, travel industry, travel tips, road warrior</itunes:keywords>
         <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg"/>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:owner>
             <itunes:name>Mark Peacock</itunes:name>
             <itunes:email>mark@thepeacocks.net</itunes:email>
@@ -32,6 +32,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>Checking Out Holland’s Tulip Festival</title>
+          <description><![CDATA[In this episode, I dive deep into our Dutch tulip-themed trip last April. Before the tulip festival stories, I randomly wander through a potpourri of travel topics — TSA passenger volumes returning to pre-COVID levels, having a surprisingly satisfying customer service experience with American Airlines, Hertz’s EV push, and a bit of a chuckle about the misplaced visa panic in the news coverage of the EU’s impending ETIAS system.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_195.mp3" length="21671193" type="audio/mpeg"/>
+          <guid isPermaLink="false">0068ce5f-b60d-4fed-a79a-5c7049d786f7</guid>
+          <pubDate>Thu, 24 Aug 2023 20:14:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Post-COVID shifts in airline routes, Hertz pushing EV's, false panic about European visas, and then diving into our great tulip festival experience in the Netherlands</itunes:subtitle>
+          <itunes:summary>Post-COVID shifts in airline routes, Hertz pushing EV's, false panic about European visas, and then diving into our great tulip festival experience in the Netherlands</itunes:summary>
+          <itunes:keywords>American Airlines, Electric Vehicle, ETIAS, Haarlem, Hertz, Holland, the Netherlands, travel, travel podcast, travel stories, travel tips, TSA, tulips</itunes:keywords>
+          <itunes:duration>29:42</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/08/IMG_6301-EDIT-300x300.jpg?resize=300%2C300"/>
+          <itunes:episode>195</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1694873471812088137" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
         <item>
           <title>Best Laid Travel Plans; Roaming Entropy</title>
           <description><![CDATA[Back behind the microphone after, despite my finely tuned travel plans, I had to resort to being stubbornly cranky to fix a ORD connection drama when coming home from a tulip-peeping trip in Holland. We also wander into the world of flâneuring, aimlessly walking around a city as a way to swerve overtourism. Listeners weigh in on Priority Pass lounge access and online passport renewal experiences, and I count all the apps I needed to go cashless in Holland.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/06/20/podcast-194-best-laid-travel-plans-roaming-entropy/">here</a>]]></description>
@@ -47,7 +67,7 @@
           <itunes:keywords>business travel, Cashless, ChatGPT, customer service, flâneuring, Priority Pass, Travel Interruption, travel planning, travel stories, United Airlines, US Passport Renewal, Wandering</itunes:keywords>
           <itunes:duration>26:38</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/06/replicate-prediction-57paxyjb7xj7hm5kqombv3ecdy.png?resize=300%2C300"/>
           <itunes:episode>194</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1671258207229210624" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
@@ -67,7 +87,7 @@
           <itunes:keywords>Airport lounges, Booking.com, frequent flier awards, Hertz, Live Music, Lufthansa, Nashville, travel, travel planning, travel podcast, travel stories, travel tips, US Passport Renewal</itunes:keywords>
           <itunes:duration>24:52</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/03/Nash-vegas.jpg"/>
           <itunes:episode>193</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1641962713986285568" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
@@ -87,7 +107,7 @@
           <itunes:keywords>Author Interview, Croatia, ETIAS, flight cancellations, Gin, Gin Tonic, Southwest Airlines, travel planning, travel podcast, travel stories, travel tips, travel</itunes:keywords>
           <itunes:duration>23:35</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/01/DALL%C2%B7E-2023-01-25-22.53.11-e1674709008862-300x300.png"/>
           <itunes:episode>192</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1618769229800693761" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
@@ -109,7 +129,7 @@
           <itunes:keywords>ChatGPT, Croatia, Crowds, Italy, Real ID, Soccer, travel, travel podcast, travel stories, travel tips, TripIt, US Passport Renewal</itunes:keywords>
           <itunes:duration>24:54</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/12/AA263071-7820-499A-BBF9-DAB2E122A703-1.jpg"/>
           <itunes:episode>191</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1606874868632485889" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
@@ -129,7 +149,7 @@
           <itunes:keywords>AirTag, Author Interview, Drinking Alone, eSIM, Italy, lost luggage, Prepaid mobile data, Travel Apps, travel podcast, travel stories, Travel Technology, travel tips, travel planning</itunes:keywords>
           <itunes:duration>28:22</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/10/malort_face.jpg"/>
           <itunes:episode>190</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1587202096591413248" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
@@ -151,7 +171,7 @@
           <itunes:keywords>eSIM, Flight Times, iPhone, Prepaid mobile data, SIMs, Small Airports, travel planning, travel podcast, travel stories, travel tips, TSA, Why We Travel</itunes:keywords>
           <itunes:duration>31:48</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/09/IMG_5006.jpg"/>
           <itunes:episode>189</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1573101185883594752" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
@@ -173,7 +193,7 @@
           <itunes:keywords>Airport lounges, COVID travel rules, Delta Airlines, frequent flier awards, frequent flier programs, JetBlue, Spirit Airways, travel chaos, travel podcast, travel tips</itunes:keywords>
           <itunes:duration>23:56</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/08/IMG_4140.jpg"/>
           <itunes:episode>188</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1560641071926886401" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
@@ -193,7 +213,7 @@
           <itunes:keywords>CDC, Chicago, Craft Beer, frequent flier programs, Frequent Flyer Status, hotel housekeeping, In-Flight Masks, Nashville, passenger volumes, Real ID, Taproom, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
           <itunes:duration>28:04</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/05/IMG_4803.jpg"/>
           <itunes:episode>187</itunes:episode>
       </item>
@@ -212,7 +232,7 @@
           <itunes:keywords>Airports, CDC, Clear, CLEAR registered traveler, Daytona Beach, Florida, In-Flight Masks, Masks, Regional Jets, Santa Fe, Small Airports, Southwest Airlines, Travel Apps, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
           <itunes:duration>24:08</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/04/IMG_0161.jpg"/>
           <itunes:episode>186</itunes:episode>
       </item>
@@ -231,7 +251,7 @@
           <itunes:keywords>American Express, Bourbon, Brooklyn, Centurion Lounge, COVID travel rules, In-Flight Masks, Louisville, New York City, Plane Mask, Southwest Airlines, travel stories, travel tips, travel podcast</itunes:keywords>
           <itunes:duration>19:32</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>no</itunes:explicit>
+          <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_4455.jpeg"/>
           <itunes:episode>185</itunes:episode>
       </item>
@@ -250,28 +270,9 @@
             <itunes:keywords>Add-On Fees, Baggage Fees, COVID test, COVID travel rules, inflation, Louisville, restaurants, Southwest Airlines, Travel Price Index, travel stories, travel tips, US Passport Renewal, travel podcast</itunes:keywords>
             <itunes:duration>23:20</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>false</itunes:explicit>
             <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_2429.jpeg"/>
             <itunes:episode>184</itunes:episode>
-        </item>
-        <item>
-            <title>COVID Test Anxiety; Michelin Dining Adventures</title>
-            <description><![CDATA[No travel since the last episode, but lots of travel planning. Are we making our way back to pre-COVID travel planning patterns? Omicron has lots of people worried about testing positive and getting stuck abroad. Michael Giusti of InsuranceQuotes.com talks about how travel insurance can help. A blogger’s brutal review of a Michelin-starred restaurant where we ate in October gets me thinking about food as an adventure.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/01/16/podcast-183-covid-test-anxiety-michelin-food-adventures/">here</a>]]></description>
-            <link>http://travelcommons.com/2022/01/16/podcast-183-covid-test-anxiety-michelin-food-adventures/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_183.mp3" length="18489871" type="audio/mpeg"/>
-            <guid isPermaLink="false">713d847a-c5be-4505-ab72-d6e24d7397ec</guid>
-            <pubDate>Sun, 16 Jan 2022 22:06:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure</itunes:subtitle>
-            <itunes:summary>Travel planning trends; COVID test anxiety and how travel insurance helps; blogger’s brutal review of a restaurant gets me thinking about food as adventure</itunes:summary>
-            <itunes:keywords>COVID test, Frequent Flyer Status, Michelin stars, Real ID, restaurants, Test Anxiety, Travel Insurance, travel planning, travel podcast, travel stories, travel tips, USB-C, travel podcast</itunes:keywords>
-            <itunes:duration>25:17</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/01/IMG_3929.jpeg"/>
-            <itunes:episode>183</itunes:episode>
         </item>
 	      <item>
             <title>A Decade of TravelCommons</title>
@@ -288,7 +289,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>business travel, travel tips, business travelers, road warrior, travel technology, luggage, Spain, TSA</itunes:keywords>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>false</itunes:explicit>
             <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2015/05/2014-06-01-15.20.55-e1431490750219.jpg"/>
             <itunes:episode>115</itunes:episode>
         </item>
@@ -307,6 +308,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
             <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
             <itunes:episode>74</itunes:episode>
         </item>
         <item>
@@ -324,7 +326,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>false</itunes:explicit>
             <itunes:episode>40</itunes:episode>
         </item>
         <item>
@@ -341,7 +343,7 @@
             <itunes:author>Mark Peacock</itunes:author>
             <itunes:keywords>travel, promo, stories</itunes:keywords>
             <itunes:episodeType>trailer</itunes:episodeType>
-            <itunes:explicit>no</itunes:explicit>
+            <itunes:explicit>false</itunes:explicit>
         </item>
     </channel>
 </rss>
