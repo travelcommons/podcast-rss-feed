@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+    <channel>
+        <title>TravelCommons</title>
+        <link>http://travelcommons.com</link>
+        <description>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</description>
+        <copyright>&#xA9; 2023 The Peacock Group LLC</copyright>
+        <managingEditor>mpeacock@travelcommons.com (Mark Peacock)</managingEditor>
+        <category>Travel</category>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Thu, 24 Aug 2023 20:14:01 -0500</pubDate>
+        <lastBuildDate>Thu, 24 Aug 2023 20:14:01 -0500</lastBuildDate>
+        <image>
+            <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
+            <title>TravelCommons</title>
+            <link>http://travelcommons.com</link>
+        </image>
+        <itunes:author>Mark Peacock</itunes:author>
+        <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+        <itunes:summary>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</itunes:summary>
+        <itunes:keywords>travel, travel podcast, business travel, travel stories, travel industry, travel tips, road warrior</itunes:keywords>
+        <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg"/>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Mark Peacock</itunes:name>
+            <itunes:email>mark@thepeacocks.net</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Places &amp; Travel"/>
+            <itunes:category text="Personal Journals"/>
+        </itunes:category>
+        <itunes:type>episodic</itunes:type>
+        <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>Checking Out Holland’s Tulip Festival</title>
+          <description><![CDATA[In this episode, I dive deep into our Dutch tulip-themed trip last April. Before the tulip festival stories, I randomly wander through a potpourri of travel topics — TSA passenger volumes returning to pre-COVID levels, having a surprisingly satisfying customer service experience with American Airlines, Hertz’s EV push, and a bit of a chuckle about the misplaced visa panic in the news coverage of the EU’s impending ETIAS system.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_195.mp3" length="21671193" type="audio/mpeg"/>
+          <guid isPermaLink="false">0068ce5f-b60d-4fed-a79a-5c7049d786f7</guid>
+          <pubDate>Thu, 24 Aug 2023 20:14:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Post-COVID shifts in airline routes, Hertz pushing EV's, false panic about European visas, and then diving into our great tulip festival experience in the Netherlands</itunes:subtitle>
+          <itunes:summary>Post-COVID shifts in airline routes, Hertz pushing EV's, false panic about European visas, and then diving into our great tulip festival experience in the Netherlands</itunes:summary>
+          <itunes:keywords>American Airlines, Electric Vehicle, ETIAS, Haarlem, Hertz, Holland, the Netherlands, travel, travel podcast, travel stories, travel tips, TSA, tulips</itunes:keywords>
+          <itunes:duration>29:42</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/08/IMG_6301-EDIT-300x300.jpg?resize=300%2C300"/>
+          <itunes:episode>195</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1694873471812088137" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
+        <item>
+          <title>Best Laid Travel Plans; Roaming Entropy</title>
+          <description><![CDATA[Back behind the microphone after, despite my finely tuned travel plans, I had to resort to being stubbornly cranky to fix a ORD connection drama when coming home from a tulip-peeping trip in Holland. We also wander into the world of flâneuring, aimlessly walking around a city as a way to swerve overtourism. Listeners weigh in on Priority Pass lounge access and online passport renewal experiences, and I count all the apps I needed to go cashless in Holland.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/06/20/podcast-194-best-laid-travel-plans-roaming-entropy/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/06/20/podcast-194-best-laid-travel-plans-roaming-entropy/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_194.mp3" length="19460984" type="audio/mpeg"/>
+          <guid isPermaLink="false">b0c17f32-d988-48c7-9adb-820ebdfaf91a</guid>
+          <pubDate>Tue, 20 Jun 2023 15:25:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Stubbornness fixes a missed flight connection; travel plans; flâneuring to swerve overtourism; is Priority Pass worth it; need lots of phone apps to go cashless</itunes:subtitle>
+          <itunes:summary>Stubbornness fixes a missed flight connection; travel plans; flâneuring to swerve overtourism; is Priority Pass worth it; need lots of phone apps to go cashless</itunes:summary>
+          <itunes:keywords>business travel, Cashless, ChatGPT, customer service, flâneuring, Priority Pass, Travel Interruption, travel planning, travel stories, United Airlines, US Passport Renewal, Wandering</itunes:keywords>
+          <itunes:duration>26:38</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/06/replicate-prediction-57paxyjb7xj7hm5kqombv3ecdy.png?resize=300%2C300"/>
+          <itunes:episode>194</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1671258207229210624" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
+        <item>
+          <title>Making the Most of Miles; Nashville vs Nash-Vegas</title>
+          <description><![CDATA[Doing a bit of winter travel, the bar tab from waiting out a weather delay got me rethinking the economics of airport lounge memberships. Doing yet more travel planning but with a focus on making the most of the points and miles we accumulated on credit cards during the pandemic. And after eight months in Nashville, I compare the two sides of the local music scene -- the Nash-Vegas honky tonks vs the smaller, eclectic off-Broadway scene.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/03/31/podcast-193-making-the-most-of-miles-nashville-vs-nash-vegas/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/03/31/podcast-193-making-the-most-of-miles-nashville-vs-nash-vegas/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_193.mp3" length="18186774" type="audio/mpeg"/>
+          <guid isPermaLink="false">383d2703-b236-4a29-b299-20dabe5d668d</guid>
+          <pubDate>Fri, 31 Mar 2023 19:23:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Weather delay bar tab got me rethinking economics of airport lounge memberships; planning travel to maximize pandemic-era credit card miles; comparing Nash-Vegas honky tonks vs more eclectic Nashville scene</itunes:subtitle>
+          <itunes:summary>Weather delay bar tab got me rethinking the economics of airport lounge memberships. Continuing to plan travel but focusing on making the most of the miles we accumulated on credit cards during the pandemic. And comparing Nashville’s music scene: Nash-Vegas honky tonks vs the smaller, eclectic off-Broadway scene.</itunes:summary>
+          <itunes:keywords>Airport lounges, Booking.com, frequent flier awards, Hertz, Live Music, Lufthansa, Nashville, travel, travel planning, travel podcast, travel stories, travel tips, US Passport Renewal</itunes:keywords>
+          <itunes:duration>24:52</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/03/Nash-vegas.jpg"/>
+          <itunes:episode>193</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1641962713986285568" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
+        <item>
+          <title>New Year Travel Planning Tips; Gin Conquers the World</title>
+          <description><![CDATA[With COVID travel restrictions gone, I expect people to revert back to their old ways where January is the biggest travel planning month. I wade into the debate between booking direct with travel providers vs. booking with agents and 3rd-party sites. I see how well my travel tips did during the Southwest cancellation chaos, and then pull out a little more of my conversation with Jeff Cioletti, author of the new book Imbibing for Introverts; this time about how gin is going global with a local twist.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/01/26/podcast-192-new-year-travel-planning-tips-gin-conquers-the-world/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/01/26/podcast-192-new-year-travel-planning-tips-gin-conquers-the-world/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_192.mp3" length="17267933" type="audio/mpeg"/>
+          <guid isPermaLink="false">dbf10bc9-17c8-4f26-a509-61c70624e1c8</guid>
+          <pubDate>Thu, 26 Jan 2023 18:52:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Are people going back to their old travel planning ways? Should you book direct with travel providers or use a 3rd-party? Unpacking Southwest's cancellation chaos. Gin goes global with a local twist.</itunes:subtitle>
+          <itunes:summary>Are people going back to their old travel planning ways? Should you book direct with travel providers or use a 3rd-party? Unpacking Southwest's cancellation chaos. Gin goes global with a local twist.</itunes:summary>
+          <itunes:keywords>Author Interview, Croatia, ETIAS, flight cancellations, Gin, Gin Tonic, Southwest Airlines, travel planning, travel podcast, travel stories, travel tips, travel</itunes:keywords>
+          <itunes:duration>23:35</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/01/DALL%C2%B7E-2023-01-25-22.53.11-e1674709008862-300x300.png"/>
+          <itunes:episode>192</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1618769229800693761" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://daily.sevenfifty.com/app/uploads/2017/07/Ciolettiheadshot2-copy-1472x1472.jpg" href="https://www.linkedin.com/in/jeff-cioletti-193941">Jeff Cioletti</podcast:person>
+        </item>
+        <item>
+          <title>My Notes on Italy and Split, Croatia</title>
+          <description><![CDATA[Hard up against the Christmas deadline, we compare long-distance drive times between gas and electric cars, and my travel tips vs. those from the ChatGPT AI chatbot. We talk about the latest Real ID deadline delay, and impressions from my trip to Positano, Rome, Florence, and Split, Croatia.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/12/24/podcast-191-my-notes-on-italy-and-split-croatia/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/12/24/podcast-191-my-notes-on-italy-and-split-croatia/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_191.mp3" length="18207694" type="audio/mpeg"/>
+          <guid isPermaLink="false">aa9f0157-9ec6-4eef-83fe-03e0a9cd14a1</guid>
+          <pubDate>Sat, 24 Dec 2022 22:33:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Comparing long-distance drive times between gas and electric cars, and ChatGPT's travel tips with mine; Talking about another Real ID delay, and my travel notes from Positano, Rome, and Split, Croatia.</itunes:subtitle>
+          <itunes:summary>Comparing long-distance drive times between gas and electric cars, and ChatGPT's travel tips with mine; Talking about another Real ID delay, and my travel notes from Positano, Rome, and Split, Croatia.</itunes:summary>
+          <itunes:keywords>ChatGPT, Croatia, Crowds, Italy, Real ID, Soccer, travel, travel podcast, travel stories, travel tips, TripIt, US Passport Renewal</itunes:keywords>
+          <itunes:duration>24:54</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/12/AA263071-7820-499A-BBF9-DAB2E122A703-1.jpg"/>
+          <itunes:episode>191</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1606874868632485889" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
+        <item>
+          <title>My Travel Tech Stack; Imbibing for Introverts</title>
+          <description><![CDATA[Back behind the mic after 3 week of travel in Croatia and Italy. The trip went amazingly well up to the last leg, when United's Newark team couldn't get our bags on our plane. But, I'd stuffed Apple AirTags into our luggage, so we were able to track their movements 'til they got home. That experience and a listener's tweet led to me re-visiting my travel tech stack. We then talk to Jeff Cioletti, author of the new book <i>Imbibing for Introverts</i>, about the art of drinking alone.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/10/31/podcast-190-my-travel-tech-stack-imbibing-for-introverts/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/10/31/podcast-190-my-travel-tech-stack-imbibing-for-introverts/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_190.mp3" length="20714577" type="audio/mpeg"/>
+          <guid isPermaLink="false">35db95c3-1af6-452f-9462-270527a12a73</guid>
+          <pubDate>Mon, 31 Oct 2022 16:27:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Tracking lost luggage with AirTags; what's changed in my travel tech stack; talking with Jeff Cioletti, author of the new book "Imbibing for Introverts", about the art of drinking alone</itunes:subtitle>
+          <itunes:summary>Tracking lost luggage with AirTags; what's changed in my travel tech stack; talking with Jeff Cioletti, author of the new book "Imbibing for Introverts", about the art of drinking alone</itunes:summary>
+          <itunes:keywords>AirTag, Author Interview, Drinking Alone, eSIM, Italy, lost luggage, Prepaid mobile data, Travel Apps, travel podcast, travel stories, Travel Technology, travel tips, travel planning</itunes:keywords>
+          <itunes:duration>28:22</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/10/malort_face.jpg"/>
+          <itunes:episode>190</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1587202096591413248" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://daily.sevenfifty.com/app/uploads/2017/07/Ciolettiheadshot2-copy-1472x1472.jpg" href="https://www.linkedin.com/in/jeff-cioletti-193941">Jeff Cioletti</podcast:person>
+        </item>
+        <item>
+          <title>Why We Travel; When The First Flight Isn’t Best</title>
+          <description><![CDATA[Lots of different voices in this episode. Listeners growing our list of travel tips, and conversations with Dr. Sheldon Jacobson about why one of those tips — always catch the first flight out — isn’t always right, and Patricia Schultz about her new book, <i>Why We Travel: 100 Reasons to See the World</i>.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/09/22/podcast-189-why-we-travel-when-the-first-flight-isnt-best/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/09/22/podcast-189-why-we-travel-when-the-first-flight-isnt-best/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_189.mp3" length="23170644" type="audio/mpeg"/>
+          <guid isPermaLink="false">a87e86c3-9cef-4f57-b28e-1dad8242fa31</guid>
+          <pubDate>Thu, 22 Sep 2022 18:47:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Lots of different voices - listeners adding to our list of travel tips, Dr. Sheldon Jacobson on why one of our tips isn't always right, and Patricia Schultz on her new book "Why We Travel"</itunes:subtitle>
+          <itunes:summary>Lots of different voices - listeners adding to our list of travel tips, Dr. Sheldon Jacobson on why one of our tips isn't always right, and Patricia Schultz on her new book "Why We Travel"</itunes:summary>
+          <itunes:keywords>eSIM, Flight Times, iPhone, Prepaid mobile data, SIMs, Small Airports, travel planning, travel podcast, travel stories, travel tips, TSA, Why We Travel</itunes:keywords>
+          <itunes:duration>31:48</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/09/IMG_5006.jpg"/>
+          <itunes:episode>189</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1573101185883594752" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://d1bh17hrbsh0lf.cloudfront.net/contributor/251539594/headshot/conversions/patricia-schultz-thumb.jpg" href="https://www.workman.com/authors/patricia-schultz">Patricia Schultz</podcast:person>
+        </item>
+        <item>
+          <title>My Top 13 Tips to Survive Travel Chaos</title>
+          <description><![CDATA[Back behind the microphone after a couple of months of setting up the new studios in Nashville. I've been dishing out travel advice to friends and family swept up in this summer's travel chaos. I've distilled all those texts and messages down to my top 13 travel tips to help those traveling through the rest of the year. We also talk about the countries that have dropped all of the COVID testing requirements for inbound passengers, noodle about the rationale for JetBlue's dogged pursuit of Spirit Airways, Delta's new time limits for their Sky Club lounges, and why frequent flier award travel is suddenly a bargain again.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/08/18/podcast-188-my-top-tips-to-survive-travel-chaos/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/08/18/podcast-188-my-top-tips-to-survive-travel-chaos/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_188.mp3" length="17517417" type="audio/mpeg"/>
+          <guid isPermaLink="false">d1b96d91-671a-4821-97c6-861ef4e07a4d</guid>
+          <pubDate>Thu, 18 Aug 2022 20:21:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>I've distilled my travel advice down to the top 13 travel tips to avoid the current chaos. Also, the scrapping of COVID travel test rules and why frequent flier award travel is a bargain again.</itunes:subtitle>
+          <itunes:summary>I've distilled my travel advice down to the top 13 travel tips to avoid the current chaos. Also, the scrapping of COVID travel test rules and why frequent flier award travel is a bargain again.</itunes:summary>
+          <itunes:keywords>Airport lounges, COVID travel rules, Delta Airlines, frequent flier awards, frequent flier programs, JetBlue, Spirit Airways, travel chaos, travel podcast, travel tips</itunes:keywords>
+          <itunes:duration>23:56</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/08/IMG_4140.jpg"/>
+          <itunes:episode>188</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1560641071926886401" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
+      </item>
+        <item>
+          <title>Moving to a Non-Hub Airport; What Makes A Great Taproom?</title>
+          <description><![CDATA[The last episode recording in Chicago before we relocate the TravelCommons studios, and our lives, down to Nashville. We close out our threads on in-flight mask mandates and hotel housekeeping, and critique an academic paper about the moral hazard of frequent flier elite status. I talk through the changes I’ll have to make when flying out of a non-hub airport. And then, as I’m making a list of the Chicago breweries I want to re-visit before leaving, I think through the characteristics that makes a taproom great.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_187.mp3" length="20492648" type="audio/mpeg"/>
+          <guid isPermaLink="false">da4cb57a-08d9-4af5-ad28-556aedb42eef</guid>
+          <pubDate>Thu, 26 May 2022 14:58:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>In-flight mask mandates; hotel housekeeping; moral hazard of frequent flier status; changes flying out of a non-hub airport; characteristics of a great taproom</itunes:subtitle>
+          <itunes:summary>In-flight mask mandates; hotel housekeeping; moral hazard of frequent flier status; changes flying out of a non-hub airport; characteristics of a great taproom</itunes:summary>
+          <itunes:keywords>CDC, Chicago, Craft Beer, frequent flier programs, Frequent Flyer Status, hotel housekeeping, In-Flight Masks, Nashville, passenger volumes, Real ID, Taproom, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
+          <itunes:duration>28:04</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/05/IMG_4803.jpg"/>
+          <itunes:episode>187</itunes:episode>
+      </item>
+        <item>
+          <title>Mask Mandate Scramble; Small Airport Survival</title>
+          <description><![CDATA[We recap the bouncing ball history of the in-flight mask mandate as we try to figure out where it's going land now that it's in the courts. But before that, I recap my trip to Santa Fe, NM, take the flight tracking app Flighty for a spin, and wonder why CLEAR keeps giving away annual subscriptions. Then we dig into the current state of regional airports with Joanne Magley, of Daytona Beach International Airport<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_186.mp3" length="17666385" type="audio/mpeg"/>
+          <guid isPermaLink="false">8fbabce9-7b61-490e-95a5-d9caeedc01df</guid>
+          <pubDate>Thu, 21 Apr 2022 21:26:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Following the bouncing ball of on-flight mask mandates, my trip to Santa Fe, NM, reviewing flight tracking app Flighty, and Daytona Beach International Airport.</itunes:subtitle>
+          <itunes:summary>Following the bouncing ball of on-flight mask mandates, my trip to Santa Fe, NM, reviewing flight tracking app Flighty, and Daytona Beach International Airport.</itunes:summary>
+          <itunes:keywords>Airports, CDC, Clear, CLEAR registered traveler, Daytona Beach, Florida, In-Flight Masks, Masks, Regional Jets, Santa Fe, Small Airports, Southwest Airlines, Travel Apps, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
+          <itunes:duration>24:08</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/04/IMG_0161.jpg"/>
+          <itunes:episode>186</itunes:episode>
+      </item>
+        <item>
+          <title>Notes on Louisville; Changing Mask Mandates</title>
+          <description><![CDATA[As the great American philosopher Ferris Bueller once said, “Life moves pretty fast” and in this episode, we talk about the rapid changes in hotel service, and in-flight mask mandates. Then I go into detail about our recent trip to Louisville, complete with recommendations for food and drink<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/">here</a>]]></description>
+          <link>http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_185.mp3" length="14352877" type="audio/mpeg"/>
+          <guid isPermaLink="false">5d5f02cf-c8b9-4e7c-b614-28a76bd50e71</guid>
+          <pubDate>Mon, 28 Mar 2022 16:48:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>The American philosopher Ferris Bueller said, “Life moves pretty fast” In this episode, we talk about rapid changes in hotel service and in-flight mask mandates. Then a trip report and recommendations from our trip to Louisville.</itunes:subtitle>
+          <itunes:summary>The American philosopher Ferris Bueller said, “Life moves pretty fast” In this episode, we talk about rapid changes in hotel service and in-flight mask mandates. Then a trip report and recommendations from our trip to Louisville.</itunes:summary>
+          <itunes:keywords>American Express, Bourbon, Brooklyn, Centurion Lounge, COVID travel rules, In-Flight Masks, Louisville, New York City, Plane Mask, Southwest Airlines, travel stories, travel tips, travel podcast</itunes:keywords>
+          <itunes:duration>19:32</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_4455.jpeg"/>
+          <itunes:episode>185</itunes:episode>
+      </item>
+      <item>
+            <title>Figuring Out Stealth Travel Inflation</title>
+            <description><![CDATA[In the travel world, what goes up -- rules, fees, prices -- often stays up. It's the ratchet effect and it's a theme running through this episode. Inflation is on everyone's mind, and so we dig into travel inflation, comparing today's prices with pre-pandemic levels.  We also talk about US passport renewals ahead of the summer vacation season, and some good Cuban food in Louisville and a questionable food trend in London.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/">here</a>]]></description>
+            <link>http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_184.mp3" length="17078188" type="audio/mpeg"/>
+            <guid isPermaLink="false">baf6a462-88bb-464e-80f6-0022fbb532b9</guid>
+            <pubDate>Thu, 3 Mar 2022 11:06:01 -0600</pubDate>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:subtitle>Analyzing travel inflation and ratcheting add-on fees; changing COVID test rules; renewing US passports; Louisville Cuban restaurant; COVID catches up to me</itunes:subtitle>
+            <itunes:summary>Analyzing travel inflation and ratcheting add-on fees; changing COVID test rules; renewing US passports; Louisville Cuban restaurant; COVID catches up to me</itunes:summary>
+            <itunes:keywords>Add-On Fees, Baggage Fees, COVID test, COVID travel rules, inflation, Louisville, restaurants, Southwest Airlines, Travel Price Index, travel stories, travel tips, US Passport Renewal, travel podcast</itunes:keywords>
+            <itunes:duration>23:20</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_2429.jpeg"/>
+            <itunes:episode>184</itunes:episode>
+        </item>
+	      <item>
+            <title>A Decade of TravelCommons</title>
+            <description>Looking back over 10 years of TravelCommons</description>
+            <link>http://travelcommons.com/2015/05/14/podcast-115-a-decade-of-travelcommons</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_115.mp3" length="22247434" type="audio/mpeg"/>
+            <guid isPermaLink="false">05c6ce29-f74a-45a8-9602-b9a37dbdc1d5</guid>
+            <pubDate>Thu, 14 May 2015 05:07:01 -0500</pubDate>
+            <itunes:subtitle>Looking back over 10 years of TravelCommons</itunes:subtitle>
+            <itunes:summary>Waiting for smart luggage; more about trains to airports; Semana Santa in Andalusia; looking back over 10 years of TravelCommons episodes </itunes:summary>
+            <itunes:duration>30:40</itunes:duration>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:keywords>business travel, travel tips, business travelers, road warrior, travel technology, luggage, Spain, TSA</itunes:keywords>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2015/05/2014-06-01-15.20.55-e1431490750219.jpg"/>
+            <itunes:episode>115</itunes:episode>
+        </item>
+	      <item>
+            <title>Looking Back Over Four Years of TravelCommons</title>
+            <description>The fourth year anniversary episode of TravelCommons</description>
+            <link>http://travelcommons.com/2009/05/14/podcast-74-looking-back-over-four-years-of-travelcommons/</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_74.mp3" length="17971210" type="audio/mpeg"/>
+            <guid isPermaLink="false">092c01f8-f687-4b8b-b351-fbe6ca741588</guid>
+            <pubDate>Thu, 14 May 2009 21:48:01 -0500</pubDate>
+            <itunes:subtitle>The fourth year anniversary episode of TravelCommons</itunes:subtitle>
+            <itunes:summary>Recorded in the Seattle Marriott Waterfront, this special 4th-year anniversary edition collates the best bits from four years of TravelCommons podcasts. Starting with the "hotel medley" -- the roll call of all the hotels that have served as TravelCommons recording studios, we move on to excerpts from stories about the TSA, Bose headphones, memories of better airplane food, the hassles of travel, and some of the most entertaining sights I've seen in the last four years.</itunes:summary>
+            <itunes:duration>24:54</itunes:duration>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:episode>74</itunes:episode>
+        </item>
+        <item>
+            <title>Looking Back Over The First Year</title>
+            <description>The first year anniversary episode of TravelCommons</description>
+	          <link>http://travelcommons.com/2006/06/13/podcast-40-looking-back-over-the-first-year/</link>
+	          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <category domain="">Travel</category>
+            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_40.mp3" length="20178944" type="audio/mpeg3"></enclosure>
+            <guid isPermaLink="false">68456bf8-7cdf-4aff-bc41-bb9d92051940</guid>
+            <pubDate>Tue, 13 Jun 2006 00:08:21 -0500</pubDate>
+	          <itunes:subtitle>The first year anniversary episode of TravelCommons</itunes:subtitle>
+	          <itunes:summary>Recorded in the Courtyard Copley Square in Boston, this special edition pulls the best of the first year of TravelCommons.</itunes:summary>
+            <itunes:duration>28:00</itunes:duration>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:keywords>travel, business travel, travel stories, anniversary show</itunes:keywords>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:episode>40</itunes:episode>
+        </item>
+        <item>
+            <title>TravelCommons Promo</title>
+            <description>A Taste of TravelCommons - Telling travel stories from hotel bathrooms around the country</description>
+            <link>http://travelcommons.com</link>
+            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+            <enclosure url="http://www.travelcommons.com/podcast/travelcommons_promo_1.mp3" length="1220405" type="audio/mpeg3"></enclosure>
+            <guid isPermaLink="false">0ffa773e-e817-46d7-944b-438cf18fa929</guid>
+            <pubDate>Wed, 6 Jul 2005 18:14:44 -0500</pubDate>
+            <itunes:subtitle>Taste of TravelCommons</itunes:subtitle>
+	          <itunes:summary>A Taste of TravelCommons - Travel rants and travel stories recorded in hotel bathrooms around the country</itunes:summary>
+            <itunes:duration>2:30</itunes:duration>
+            <itunes:author>Mark Peacock</itunes:author>
+            <itunes:keywords>travel, promo, stories</itunes:keywords>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+    </channel>
+</rss>
