@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 24 Aug 2023 20:14:01 -0500</pubDate>
-        <lastBuildDate>Thu, 24 Aug 2023 20:14:01 -0500</lastBuildDate>
+        <pubDate>Fri, 29 Sep 2023 18:22:01 -0500</pubDate>
+        <lastBuildDate>Fri, 29 Sep 2023 18:22:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -33,6 +33,28 @@
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
         <item>
+          <title>Cheers to Beer Tourism and Travel</title>
+          <description><![CDATA[In this beer-focused episode, John Holl, editor of All About Beer, gives us his take on beer tourism and tips on how to beer travels. I talk about my experience planning my Asheville, NC taproom visits with ChatGPT. We also dive deep into the new JD Power Airport Satisfaction Survey and do a quick update about the EU's delayed ETIAS system.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2023/09/29/podcast-196-cheers-to-beer-tourism-and-travel/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/09/29/podcast-196-cheers-to-beer-tourism-and-travel/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_196.mp3" length="21335644" type="audio/mpeg"/>
+          <guid isPermaLink="false">fd7486d0-5b9a-42b2-a21e-85f6bb75e67b</guid>
+          <pubDate>Fri, 29 Sep 2023 18:22:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>John Holl, editor of All About Beer, talks about beer tourism; travel planning with ChatGPT; JD Power Airport Satisfaction Survey; EU's delayed ETIAS system</itunes:subtitle>
+          <itunes:summary>John Holl, editor of All About Beer, talks about beer tourism; travel planning with ChatGPT; JD Power Airport Satisfaction Survey; EU's delayed ETIAS system</itunes:summary>
+          <itunes:keywords>Airports, Asheville, Beer Tourism, ChatGPT, Craft Beer, ETIAS, JD Power, Taprooms, travel, travel planning, travel podcast, travel stories, travel tips, TSA</itunes:keywords>
+          <itunes:duration>29:14</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/09/stable-diffusion-xl-beer-3.jpeg"/>
+          <itunes:episode>196</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1707908629041471767" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://www.wineenthusiast.com/wp-content/uploads/2022/09/John_Holl_300x450.jpg" href="https://www.johnholl.com/">John Holl</podcast:person>
+        </item>
+        <item>
           <title>Checking Out Holland’s Tulip Festival</title>
           <description><![CDATA[In this episode, I dive deep into our Dutch tulip-themed trip last April. Before the tulip festival stories, I randomly wander through a potpourri of travel topics — TSA passenger volumes returning to pre-COVID levels, having a surprisingly satisfying customer service experience with American Airlines, Hertz’s EV push, and a bit of a chuckle about the misplaced visa panic in the news coverage of the EU’s impending ETIAS system.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/">here</a>]]></description>
           <link>http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/</link>
@@ -48,7 +70,7 @@
           <itunes:duration>29:42</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:explicit>false</itunes:explicit>
-          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/08/IMG_6301-EDIT-300x300.jpg?resize=300%2C300"/>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/08/IMG_6301-EDIT-300x300.jpg"/>
           <itunes:episode>195</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1694873471812088137" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
         </item>
@@ -68,7 +90,7 @@
           <itunes:duration>26:38</itunes:duration>
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:explicit>false</itunes:explicit>
-          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/06/replicate-prediction-57paxyjb7xj7hm5kqombv3ecdy.png?resize=300%2C300"/>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/06/replicate-prediction-57paxyjb7xj7hm5kqombv3ecdy.png"/>
           <itunes:episode>194</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1671258207229210624" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
         </item>
@@ -198,7 +220,7 @@
           <itunes:episode>188</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1560641071926886401" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
       </item>
-        <item>
+      <item>
           <title>Moving to a Non-Hub Airport; What Makes A Great Taproom?</title>
           <description><![CDATA[The last episode recording in Chicago before we relocate the TravelCommons studios, and our lives, down to Nashville. We close out our threads on in-flight mask mandates and hotel housekeeping, and critique an academic paper about the moral hazard of frequent flier elite status. I talk through the changes I’ll have to make when flying out of a non-hub airport. And then, as I’m making a list of the Chicago breweries I want to re-visit before leaving, I think through the characteristics that makes a taproom great.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/">here</a>]]></description>
           <link>http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/</link>
@@ -217,7 +239,7 @@
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/05/IMG_4803.jpg"/>
           <itunes:episode>187</itunes:episode>
       </item>
-        <item>
+      <item>
           <title>Mask Mandate Scramble; Small Airport Survival</title>
           <description><![CDATA[We recap the bouncing ball history of the in-flight mask mandate as we try to figure out where it's going land now that it's in the courts. But before that, I recap my trip to Santa Fe, NM, take the flight tracking app Flighty for a spin, and wonder why CLEAR keeps giving away annual subscriptions. Then we dig into the current state of regional airports with Joanne Magley, of Daytona Beach International Airport<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/">here</a>]]></description>
           <link>http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/</link>
@@ -236,7 +258,7 @@
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/04/IMG_0161.jpg"/>
           <itunes:episode>186</itunes:episode>
       </item>
-        <item>
+      <item>
           <title>Notes on Louisville; Changing Mask Mandates</title>
           <description><![CDATA[As the great American philosopher Ferris Bueller once said, “Life moves pretty fast” and in this episode, we talk about the rapid changes in hotel service, and in-flight mask mandates. Then I go into detail about our recent trip to Louisville, complete with recommendations for food and drink<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/">here</a>]]></description>
           <link>http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/</link>
@@ -255,26 +277,7 @@
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_4455.jpeg"/>
           <itunes:episode>185</itunes:episode>
       </item>
-      <item>
-            <title>Figuring Out Stealth Travel Inflation</title>
-            <description><![CDATA[In the travel world, what goes up -- rules, fees, prices -- often stays up. It's the ratchet effect and it's a theme running through this episode. Inflation is on everyone's mind, and so we dig into travel inflation, comparing today's prices with pre-pandemic levels.  We also talk about US passport renewals ahead of the summer vacation season, and some good Cuban food in Louisville and a questionable food trend in London.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/">here</a>]]></description>
-            <link>http://travelcommons.com/2022/03/03/podcast-184-figuring-out-stealth-travel-inflation/</link>
-            <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-            <category domain="">Travel</category>
-            <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_184.mp3" length="17078188" type="audio/mpeg"/>
-            <guid isPermaLink="false">baf6a462-88bb-464e-80f6-0022fbb532b9</guid>
-            <pubDate>Thu, 3 Mar 2022 11:06:01 -0600</pubDate>
-            <itunes:author>Mark Peacock</itunes:author>
-            <itunes:subtitle>Analyzing travel inflation and ratcheting add-on fees; changing COVID test rules; renewing US passports; Louisville Cuban restaurant; COVID catches up to me</itunes:subtitle>
-            <itunes:summary>Analyzing travel inflation and ratcheting add-on fees; changing COVID test rules; renewing US passports; Louisville Cuban restaurant; COVID catches up to me</itunes:summary>
-            <itunes:keywords>Add-On Fees, Baggage Fees, COVID test, COVID travel rules, inflation, Louisville, restaurants, Southwest Airlines, Travel Price Index, travel stories, travel tips, US Passport Renewal, travel podcast</itunes:keywords>
-            <itunes:duration>23:20</itunes:duration>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:explicit>false</itunes:explicit>
-            <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_2429.jpeg"/>
-            <itunes:episode>184</itunes:episode>
-        </item>
-	      <item>
+	    <item>
             <title>A Decade of TravelCommons</title>
             <description>Looking back over 10 years of TravelCommons</description>
             <link>http://travelcommons.com/2015/05/14/podcast-115-a-decade-of-travelcommons</link>
