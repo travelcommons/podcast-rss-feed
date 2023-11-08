@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Fri, 29 Sep 2023 18:22:01 -0500</pubDate>
-        <lastBuildDate>Fri, 29 Sep 2023 18:22:01 -0500</lastBuildDate>
+        <pubDate>Tue, 7 Nov 2023 17:30:01 -0600</pubDate>
+        <lastBuildDate>Tue, 7 Nov 2023 17:30:01 -0600</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>Renting a Tesla; 2023 Traveler Gift Guide</title>
+          <description><![CDATA[It’s the sustainability episode of the TravelCommons podcast, talking about my experience renting a Tesla from Hertz and my road-tested list of Christmas gift suggestions for the frequent traveler(s) in your life. I also talk about some new TSA biometrics equipment I faced (literally) in Nashville and yet another update on the EU’s ETIAS system and the US’s Real ID.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2023/11/07/podcast-197-renting-a-tesla-2023-traveler-gift-guide/">here</a>]]></description>
+          <link>http://travelcommons.com/2023/11/07/podcast-197-renting-a-tesla-2023-traveler-gift-guide/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_197.mp3" length="18495153" type="audio/mpeg"/>
+          <guid isPermaLink="false">1b182324-e719-46f2-9ec4-6246796764c8</guid>
+          <pubDate>Tue, 7 Nov 2023 17:30:01 -0600</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Renting a Tesla from Hertz; 2023 Traveler Gift Guide; new TSA biometrics in the PreCheck line; another ETIAS delay for the EU; pushing travelers again to get Real IDs</itunes:subtitle>
+          <itunes:summary>Renting a Tesla from Hertz; 2023 Traveler Gift Guide; new TSA biometrics in the PreCheck line; another ETIAS delay for the EU; pushing travelers again to get Real IDs</itunes:summary>
+          <itunes:keywords>biometrics, business travel, ETIAS, Gift Guide, Hertz, luggage, Real ID, suitcase, Tesla, travel gift ideas, Travel Gifts, travel podcast, travel stories, Travel Technology, travel tips, TSA</itunes:keywords>
+          <itunes:duration>25:18</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2023/11/Dalle-E_Renting_Tesla.png"/>
+          <itunes:episode>197</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1722039807600116143" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
         <item>
           <title>Cheers to Beer Tourism and Travel</title>
           <description><![CDATA[In this beer-focused episode, John Holl, editor of All About Beer, gives us his take on beer tourism and tips on how to beer travels. I talk about my experience planning my Asheville, NC taproom visits with ChatGPT. We also dive deep into the new JD Power Airport Satisfaction Survey and do a quick update about the EU's delayed ETIAS system.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2023/09/29/podcast-196-cheers-to-beer-tourism-and-travel/">here</a>]]></description>
@@ -257,25 +277,6 @@
           <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/04/IMG_0161.jpg"/>
           <itunes:episode>186</itunes:episode>
-      </item>
-      <item>
-          <title>Notes on Louisville; Changing Mask Mandates</title>
-          <description><![CDATA[As the great American philosopher Ferris Bueller once said, “Life moves pretty fast” and in this episode, we talk about the rapid changes in hotel service, and in-flight mask mandates. Then I go into detail about our recent trip to Louisville, complete with recommendations for food and drink<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/">here</a>]]></description>
-          <link>http://travelcommons.com/2022/03/28/podcast-185-notes-on-louisville-changing-mask-mandates/</link>
-          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-          <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_185.mp3" length="14352877" type="audio/mpeg"/>
-          <guid isPermaLink="false">5d5f02cf-c8b9-4e7c-b614-28a76bd50e71</guid>
-          <pubDate>Mon, 28 Mar 2022 16:48:01 -0500</pubDate>
-          <itunes:author>Mark Peacock</itunes:author>
-          <itunes:subtitle>The American philosopher Ferris Bueller said, “Life moves pretty fast” In this episode, we talk about rapid changes in hotel service and in-flight mask mandates. Then a trip report and recommendations from our trip to Louisville.</itunes:subtitle>
-          <itunes:summary>The American philosopher Ferris Bueller said, “Life moves pretty fast” In this episode, we talk about rapid changes in hotel service and in-flight mask mandates. Then a trip report and recommendations from our trip to Louisville.</itunes:summary>
-          <itunes:keywords>American Express, Bourbon, Brooklyn, Centurion Lounge, COVID travel rules, In-Flight Masks, Louisville, New York City, Plane Mask, Southwest Airlines, travel stories, travel tips, travel podcast</itunes:keywords>
-          <itunes:duration>19:32</itunes:duration>
-          <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/03/IMG_4455.jpeg"/>
-          <itunes:episode>185</itunes:episode>
       </item>
 	    <item>
             <title>A Decade of TravelCommons</title>
