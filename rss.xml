@@ -4,13 +4,13 @@
         <title>TravelCommons</title>
         <link>http://travelcommons.com</link>
         <description>The Frequent Traveler's Podcast. The voice of the frequent traveler -- it's more about the journey than the destination</description>
-        <copyright>&#xA9; 2023 The Peacock Group LLC</copyright>
+        <copyright>&#xA9; 2024 The Peacock Group LLC</copyright>
         <managingEditor>mpeacock@travelcommons.com (Mark Peacock)</managingEditor>
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Tue, 7 Nov 2023 17:30:01 -0600</pubDate>
-        <lastBuildDate>Tue, 7 Nov 2023 17:30:01 -0600</lastBuildDate>
+        <pubDate>Wed, 28 Feb 2024 14:00:01 -0600</pubDate>
+        <lastBuildDate>Wed, 28 Feb 2024 14:00:01 -0600</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,25 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>London Vacation Rental Woes; Hertz's EV Retreat</title>
+          <description><![CDATA[I walked by Shakespeare’s Globe Theatre after a weekend of wrestling with Booking.com and TravelNest‘s service agents, trying unsuccessfully to not let them screw up my London vacation rental. The Macbeth soliloquy about a tale “full of sound and fury, signifying nothing” pretty much summed up my experience — lots of talk that yielded nothing. But before that, we catch up on Hertz’s EV reversal, Sioux City, Iowa’s embrace of their SUX airport code, and a flash-in-the-pan airport delay betting app.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2024/02/28/podcast-198-london-vacation-rental-woes-hertzs-ev-retreat/">here</a>]]></description>
+          <link>http://travelcommons.com/2024/02/28/podcast-198-london-vacation-rental-woes-hertzs-ev-retreat/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_198.mp3" length="20520090" type="audio/mpeg"/>
+          <guid isPermaLink="false">18205b22-0c57-4476-8af5-1532d3556b1c</guid>
+          <pubDate>Wed, 28 Feb 2024 14:00:01 -0600</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>London vacation rental market is broken and Booking.com is no help; Hertz's EV retreat; Sioux City embraces SUX airport code; airport delay crypto betting app</itunes:subtitle>
+          <itunes:summary>London vacation rental market is broken and Booking.com is no help; Hertz's EV retreat; Sioux City embraces SUX airport code; airport delay crypto betting app</itunes:summary>
+          <itunes:keywords>airbnb, Booking.com, EV, Hertz, London, Sioux City, Tesla, travel podcast, travel stories, travel tips, Vacation Rentals</itunes:keywords>
+          <itunes:duration>28:07</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2024/02/IMG_4238-EDIT.jpg"/>
+          <itunes:episode>198</itunes:episode>
+        </item>
         <item>
           <title>Renting a Tesla; 2023 Traveler Gift Guide</title>
           <description><![CDATA[It’s the sustainability episode of the TravelCommons podcast, talking about my experience renting a Tesla from Hertz and my road-tested list of Christmas gift suggestions for the frequent traveler(s) in your life. I also talk about some new TSA biometrics equipment I faced (literally) in Nashville and yet another update on the EU’s ETIAS system and the US’s Real ID.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2023/11/07/podcast-197-renting-a-tesla-2023-traveler-gift-guide/">here</a>]]></description>
@@ -258,25 +277,6 @@
           <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/05/IMG_4803.jpg"/>
           <itunes:episode>187</itunes:episode>
-      </item>
-      <item>
-          <title>Mask Mandate Scramble; Small Airport Survival</title>
-          <description><![CDATA[We recap the bouncing ball history of the in-flight mask mandate as we try to figure out where it's going land now that it's in the courts. But before that, I recap my trip to Santa Fe, NM, take the flight tracking app Flighty for a spin, and wonder why CLEAR keeps giving away annual subscriptions. Then we dig into the current state of regional airports with Joanne Magley, of Daytona Beach International Airport<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/">here</a>]]></description>
-          <link>http://travelcommons.com/2022/04/21/podcast-186-mask-mandate-scramble-small-airport-survival/</link>
-          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-          <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_186.mp3" length="17666385" type="audio/mpeg"/>
-          <guid isPermaLink="false">8fbabce9-7b61-490e-95a5-d9caeedc01df</guid>
-          <pubDate>Thu, 21 Apr 2022 21:26:01 -0500</pubDate>
-          <itunes:author>Mark Peacock</itunes:author>
-          <itunes:subtitle>Following the bouncing ball of on-flight mask mandates, my trip to Santa Fe, NM, reviewing flight tracking app Flighty, and Daytona Beach International Airport.</itunes:subtitle>
-          <itunes:summary>Following the bouncing ball of on-flight mask mandates, my trip to Santa Fe, NM, reviewing flight tracking app Flighty, and Daytona Beach International Airport.</itunes:summary>
-          <itunes:keywords>Airports, CDC, Clear, CLEAR registered traveler, Daytona Beach, Florida, In-Flight Masks, Masks, Regional Jets, Santa Fe, Small Airports, Southwest Airlines, Travel Apps, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
-          <itunes:duration>24:08</itunes:duration>
-          <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/04/IMG_0161.jpg"/>
-          <itunes:episode>186</itunes:episode>
       </item>
 	    <item>
             <title>A Decade of TravelCommons</title>
