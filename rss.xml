@@ -50,6 +50,7 @@
           <itunes:explicit>false</itunes:explicit>
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2024/02/IMG_4238-EDIT.jpg"/>
           <itunes:episode>198</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1764444255446052883" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
         </item>
         <item>
           <title>Renting a Tesla; 2023 Traveler Gift Guide</title>
