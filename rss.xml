@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Wed, 28 Feb 2024 14:00:01 -0600</pubDate>
-        <lastBuildDate>Wed, 28 Feb 2024 14:00:01 -0600</lastBuildDate>
+        <pubDate>Thu, 11 Apr 2024 13:30:01 -0500</pubDate>
+        <lastBuildDate>Thu, 11 Apr 2024 13:30:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,29 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>Smile for Security: Facial Recognition in Travel</title>
+          <description><![CDATA[I .<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2024/02/28/podcast-198-london-vacation-rental-woes-hertzs-ev-retreat/">here</a>]]></description>
+          <link>http://travelcommons.com/2024/04/11/podcast-199-smile-for-security-facial-recognition-in-travel/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_199.mp3" length="29077844" type="audio/mpeg"/>
+          <guid isPermaLink="false">5a16538f-6d38-4de4-b855-8b5e0952ead7</guid>
+          <pubDate>Thu, 11 Apr 2024 13:30:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Future trends in the use of facial recognition to improve security and efficiency in air travel; abandoned Avis EV rental; eating grasshoppers in Oaxaca	</itunes:subtitle>
+          <itunes:summary>Future trends in the use of facial recognition to improve security and efficiency in air travel; abandoned Avis EV rental; eating grasshoppers in Oaxaca	</itunes:summary>
+          <itunes:keywords>American Airlines, Avis, biometrics, business travel, EV, Facial Recognition, Global Entry, Missed Connections, Oaxaca, PreCheck, Solar Eclipse, travel podcast, travel stories, TSA, Twitter</itunes:keywords>
+          <itunes:duration>39:59</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2024/04/DALL-E_2024-04-10_13.01.39.jpg"/>
+          <itunes:episode>199</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1778495736939758066" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+          <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
+          <podcast:person role="guest" group="cast" img="https://shj.cs.illinois.edu/SHJ_WWW.jpg" href="https://shj.cs.illinois.edu/">Sheldon Jacobson</podcast:person>
+          <podcast:person role="guest" group="cast" href="https://atmosphereresearch.com/">Henry Harteveldt</podcast:person>
+        </item>
         <item>
           <title>London Vacation Rental Woes; Hertz's EV Retreat</title>
           <description><![CDATA[I walked by Shakespeare’s Globe Theatre after a weekend of wrestling with Booking.com and TravelNest‘s service agents, trying unsuccessfully to not let them screw up my London vacation rental. The Macbeth soliloquy about a tale “full of sound and fury, signifying nothing” pretty much summed up my experience — lots of talk that yielded nothing. But before that, we catch up on Hertz’s EV reversal, Sioux City, Iowa’s embrace of their SUX airport code, and a flash-in-the-pan airport delay betting app.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2024/02/28/podcast-198-london-vacation-rental-woes-hertzs-ev-retreat/">here</a>]]></description>
@@ -259,25 +282,6 @@
           <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/08/IMG_4140.jpg"/>
           <itunes:episode>188</itunes:episode>
           <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1560641071926886401" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
-      </item>
-      <item>
-          <title>Moving to a Non-Hub Airport; What Makes A Great Taproom?</title>
-          <description><![CDATA[The last episode recording in Chicago before we relocate the TravelCommons studios, and our lives, down to Nashville. We close out our threads on in-flight mask mandates and hotel housekeeping, and critique an academic paper about the moral hazard of frequent flier elite status. I talk through the changes I’ll have to make when flying out of a non-hub airport. And then, as I’m making a list of the Chicago breweries I want to re-visit before leaving, I think through the characteristics that makes a taproom great.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/">here</a>]]></description>
-          <link>http://travelcommons.com/2022/05/26/podcast-187-moving-to-a-non-hub-airport-what-makes-a-great-taproom/</link>
-          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-          <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_187.mp3" length="20492648" type="audio/mpeg"/>
-          <guid isPermaLink="false">da4cb57a-08d9-4af5-ad28-556aedb42eef</guid>
-          <pubDate>Thu, 26 May 2022 14:58:01 -0500</pubDate>
-          <itunes:author>Mark Peacock</itunes:author>
-          <itunes:subtitle>In-flight mask mandates; hotel housekeeping; moral hazard of frequent flier status; changes flying out of a non-hub airport; characteristics of a great taproom</itunes:subtitle>
-          <itunes:summary>In-flight mask mandates; hotel housekeeping; moral hazard of frequent flier status; changes flying out of a non-hub airport; characteristics of a great taproom</itunes:summary>
-          <itunes:keywords>CDC, Chicago, Craft Beer, frequent flier programs, Frequent Flyer Status, hotel housekeeping, In-Flight Masks, Nashville, passenger volumes, Real ID, Taproom, TSA, travel stories, travel tips, travel podcast</itunes:keywords>
-          <itunes:duration>28:04</itunes:duration>
-          <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/05/IMG_4803.jpg"/>
-          <itunes:episode>187</itunes:episode>
       </item>
 	    <item>
             <title>A Decade of TravelCommons</title>
