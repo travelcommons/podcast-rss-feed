@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 11 Apr 2024 13:30:01 -0500</pubDate>
-        <lastBuildDate>Thu, 11 Apr 2024 13:30:01 -0500</lastBuildDate>
+        <pubDate>Thu, 23 May 2024 17:30:01 -0500</pubDate>
+        <lastBuildDate>Thu, 23 May 2024 17:30:01 -0500</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,6 +32,26 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <item>
+          <title>Podcast #200 — Wrapping Up the TravelCommons Journey</title>
+          <description><![CDATA[Finishing up 19 years of thinking way too much about travel, I indulge in a little bit of nostalgia and talk about my personal travel philosophy. But before that, we compare three Mid-South river cities -- Nashville, Louisville, and Memphis -- talk about the recovery of business travel, and enjoy a full listener mail bag.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2024/05/23/podcast-200-wrapping-up-the-travelcommons-journey/">here</a>]]></description>
+          <link>http://travelcommons.com/2024/05/23/podcast-200-wrapping-up-the-travelcommons-journey/</link>
+          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
+          <category domain="">Travel</category>
+          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_200.mp3" length="18980389" type="audio/mpeg"/>
+          <guid isPermaLink="false">328cc25c-5391-43a8-a20f-a80eb2edc75c</guid>
+          <pubDate>Thu, 23 May 2024 17:30:01 -0500</pubDate>
+          <itunes:author>Mark Peacock</itunes:author>
+          <itunes:subtitle>Finishing 19 years of podcasting where I've been thinking way too much about travel, I indulge in some nostalgia and talk about my personal travel philosophy</itunes:subtitle>
+          <itunes:summary>Finishing 19 years of podcasting where I've been thinking way too much about travel, I indulge in some nostalgia and talk about my personal travel philosophy</itunes:summary>
+          <itunes:keywords>	biometrics, business travel, Louisville, Memphis, Nashville, Retrospective, travel, travel guide, travel podcast, travel stories</itunes:keywords>
+          <itunes:duration>25:58</itunes:duration>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:explicit>false</itunes:explicit>
+          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2024/05/abandoned-motel-sign.jpg"/>
+          <itunes:episode>200</itunes:episode>
+          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1793773878621483302" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock"/>
+        </item>
         <item>
           <title>Smile for Security: Facial Recognition in Travel</title>
           <description><![CDATA[Using my face as my boarding pass to get on a flight to Oaxaca, Mexico and then as my passport to get back in the US got me thinking about how facial recognition has permeated the travel experience. To help us understand where this is going, we talk with two travel industry experts, Dr. Sheldon Jacobson and Henry Harteveldt. But before that, we talk about eating grasshoppers, an EV experience with Avis, and a couple of my travel tips that need to be revised.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2024/02/28/podcast-198-london-vacation-rental-woes-hertzs-ev-retreat/">here</a>]]></description>
@@ -263,26 +283,6 @@
           <podcast:person role="host" group="cast" img="https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/12/IMG_2601.jpg" href="https://www.podchaser.com/creators/mark-peacock-107aIUtJIX">Mark Peacock</podcast:person>
           <podcast:person role="guest" group="cast" img="https://d1bh17hrbsh0lf.cloudfront.net/contributor/251539594/headshot/conversions/patricia-schultz-thumb.jpg" href="https://www.workman.com/authors/patricia-schultz">Patricia Schultz</podcast:person>
         </item>
-        <item>
-          <title>My Top 13 Tips to Survive Travel Chaos</title>
-          <description><![CDATA[Back behind the microphone after a couple of months of setting up the new studios in Nashville. I've been dishing out travel advice to friends and family swept up in this summer's travel chaos. I've distilled all those texts and messages down to my top 13 travel tips to help those traveling through the rest of the year. We also talk about the countries that have dropped all of the COVID testing requirements for inbound passengers, noodle about the rationale for JetBlue's dogged pursuit of Spirit Airways, Delta's new time limits for their Sky Club lounges, and why frequent flier award travel is suddenly a bargain again.<br><p>Check out this episode's show notes <a href="http://travelcommons.com/2022/08/18/podcast-188-my-top-tips-to-survive-travel-chaos/">here</a>]]></description>
-          <link>http://travelcommons.com/2022/08/18/podcast-188-my-top-tips-to-survive-travel-chaos/</link>
-          <author>mpeacock@travelcommons.com (Mark Peacock)</author>
-          <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_188.mp3" length="17517417" type="audio/mpeg"/>
-          <guid isPermaLink="false">d1b96d91-671a-4821-97c6-861ef4e07a4d</guid>
-          <pubDate>Thu, 18 Aug 2022 20:21:01 -0500</pubDate>
-          <itunes:author>Mark Peacock</itunes:author>
-          <itunes:subtitle>I've distilled my travel advice down to the top 13 travel tips to avoid the current chaos. Also, the scrapping of COVID travel test rules and why frequent flier award travel is a bargain again.</itunes:subtitle>
-          <itunes:summary>I've distilled my travel advice down to the top 13 travel tips to avoid the current chaos. Also, the scrapping of COVID travel test rules and why frequent flier award travel is a bargain again.</itunes:summary>
-          <itunes:keywords>Airport lounges, COVID travel rules, Delta Airlines, frequent flier awards, frequent flier programs, JetBlue, Spirit Airways, travel chaos, travel podcast, travel tips</itunes:keywords>
-          <itunes:duration>23:56</itunes:duration>
-          <itunes:episodeType>full</itunes:episodeType>
-          <itunes:explicit>false</itunes:explicit>
-          <itunes:image href="https://i0.wp.com/travelcommons.com/wp-content/uploads/2022/08/IMG_4140.jpg"/>
-          <itunes:episode>188</itunes:episode>
-          <podcast:socialInteract uri="https://twitter.com/mpeacock/status/1560641071926886401" protocol="twitter" accountId="@mpeacock" accountUrl="https://twitter.com/mpeacock" />
-      </item>
 	    <item>
             <title>A Decade of TravelCommons</title>
             <description>Looking back over 10 years of TravelCommons</description>
