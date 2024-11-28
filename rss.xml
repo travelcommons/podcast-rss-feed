@@ -9,8 +9,8 @@
         <category>Travel</category>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Thu, 23 May 2024 17:30:01 -0500</pubDate>
-        <lastBuildDate>Thu, 23 May 2024 17:30:01 -0500</lastBuildDate>
+        <pubDate>Thu, 28 Nov 2024 10:34:01 -0600</pubDate>
+        <lastBuildDate>Thu, 28 Nov 2024 10:34:01 -0600</lastBuildDate>
         <image>
             <url>https://i0.wp.com/travelcommons.com/wp-content/uploads/2021/02/travelcommons_logo_1400.jpg</url>
             <title>TravelCommons</title>
@@ -32,13 +32,14 @@
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <podcast:guid>e98aeb91-ab47-55e5-a9a9-97db4782b739</podcast:guid>
+        <podcast:locked owner="mpeacock@travelcommons.com">yes</podcast:locked>
         <item>
           <title>Wrapping Up the TravelCommons Journey</title>
           <description><![CDATA[Finishing up 19 years of thinking way too much about travel, I indulge in a little bit of nostalgia and talk about my personal travel philosophy. But before that, we compare three Mid-South river cities -- Nashville, Louisville, and Memphis -- talk about the recovery of business travel, and enjoy a full listener mail bag.<br><p>Check out this episode's show notes for a transcript of the episode and links I mention <a href="http://travelcommons.com/2024/05/23/podcast-200-wrapping-up-the-travelcommons-journey/">here</a>]]></description>
           <link>http://travelcommons.com/2024/05/23/podcast-200-wrapping-up-the-travelcommons-journey/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_200.mp3" length="18980389" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_200.mp3" length="18980389" type="audio/mpeg"/>
           <guid isPermaLink="false">328cc25c-5391-43a8-a20f-a80eb2edc75c</guid>
           <pubDate>Thu, 23 May 2024 17:30:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -58,7 +59,7 @@
           <link>http://travelcommons.com/2024/04/11/podcast-199-smile-for-security-facial-recognition-in-travel/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_199.mp3" length="29077844" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_199.mp3" length="29077844" type="audio/mpeg"/>
           <guid isPermaLink="false">5a16538f-6d38-4de4-b855-8b5e0952ead7</guid>
           <pubDate>Thu, 11 Apr 2024 13:30:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -81,7 +82,7 @@
           <link>http://travelcommons.com/2024/02/28/podcast-198-london-vacation-rental-woes-hertzs-ev-retreat/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_198.mp3" length="20520090" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_198.mp3" length="20520090" type="audio/mpeg"/>
           <guid isPermaLink="false">18205b22-0c57-4476-8af5-1532d3556b1c</guid>
           <pubDate>Wed, 28 Feb 2024 14:00:01 -0600</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -101,7 +102,7 @@
           <link>http://travelcommons.com/2023/11/07/podcast-197-renting-a-tesla-2023-traveler-gift-guide/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_197.mp3" length="18495153" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_197.mp3" length="18495153" type="audio/mpeg"/>
           <guid isPermaLink="false">1b182324-e719-46f2-9ec4-6246796764c8</guid>
           <pubDate>Tue, 7 Nov 2023 17:30:01 -0600</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -121,7 +122,7 @@
           <link>http://travelcommons.com/2023/09/29/podcast-196-cheers-to-beer-tourism-and-travel/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_196.mp3" length="21335644" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_196.mp3" length="21335644" type="audio/mpeg"/>
           <guid isPermaLink="false">fd7486d0-5b9a-42b2-a21e-85f6bb75e67b</guid>
           <pubDate>Fri, 29 Sep 2023 18:22:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -143,7 +144,7 @@
           <link>http://travelcommons.com/2023/08/24/podcast-195-checking-out-hollands-tulip-festival/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_195.mp3" length="21671193" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_195.mp3" length="21671193" type="audio/mpeg"/>
           <guid isPermaLink="false">0068ce5f-b60d-4fed-a79a-5c7049d786f7</guid>
           <pubDate>Thu, 24 Aug 2023 20:14:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -163,7 +164,7 @@
           <link>http://travelcommons.com/2023/06/20/podcast-194-best-laid-travel-plans-roaming-entropy/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_194.mp3" length="19460984" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_194.mp3" length="19460984" type="audio/mpeg"/>
           <guid isPermaLink="false">b0c17f32-d988-48c7-9adb-820ebdfaf91a</guid>
           <pubDate>Tue, 20 Jun 2023 15:25:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -183,7 +184,7 @@
           <link>http://travelcommons.com/2023/03/31/podcast-193-making-the-most-of-miles-nashville-vs-nash-vegas/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_193.mp3" length="18186774" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_193.mp3" length="18186774" type="audio/mpeg"/>
           <guid isPermaLink="false">383d2703-b236-4a29-b299-20dabe5d668d</guid>
           <pubDate>Fri, 31 Mar 2023 19:23:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -203,7 +204,7 @@
           <link>http://travelcommons.com/2023/01/26/podcast-192-new-year-travel-planning-tips-gin-conquers-the-world/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_192.mp3" length="17267933" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_192.mp3" length="17267933" type="audio/mpeg"/>
           <guid isPermaLink="false">dbf10bc9-17c8-4f26-a509-61c70624e1c8</guid>
           <pubDate>Thu, 26 Jan 2023 18:52:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -225,7 +226,7 @@
           <link>http://travelcommons.com/2022/12/24/podcast-191-my-notes-on-italy-and-split-croatia/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_191.mp3" length="18207694" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_191.mp3" length="18207694" type="audio/mpeg"/>
           <guid isPermaLink="false">aa9f0157-9ec6-4eef-83fe-03e0a9cd14a1</guid>
           <pubDate>Sat, 24 Dec 2022 22:33:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -245,7 +246,7 @@
           <link>http://travelcommons.com/2022/10/31/podcast-190-my-travel-tech-stack-imbibing-for-introverts/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_190.mp3" length="20714577" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_190.mp3" length="20714577" type="audio/mpeg"/>
           <guid isPermaLink="false">35db95c3-1af6-452f-9462-270527a12a73</guid>
           <pubDate>Mon, 31 Oct 2022 16:27:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
@@ -267,7 +268,7 @@
           <link>http://travelcommons.com/2022/09/22/podcast-189-why-we-travel-when-the-first-flight-isnt-best/</link>
           <author>mpeacock@travelcommons.com (Mark Peacock)</author>
           <category domain="">Travel</category>
-          <enclosure url="http://chtbl.com/track/G67E9G/travelcommons.com/podcast/travelcommons_189.mp3" length="23170644" type="audio/mpeg"/>
+          <enclosure url="http://travelcommons.com/podcast/travelcommons_189.mp3" length="23170644" type="audio/mpeg"/>
           <guid isPermaLink="false">a87e86c3-9cef-4f57-b28e-1dad8242fa31</guid>
           <pubDate>Thu, 22 Sep 2022 18:47:01 -0500</pubDate>
           <itunes:author>Mark Peacock</itunes:author>
